@@ -1,0 +1,6 @@
+{
+   "@odata.context" : "https://172.16.1.201:50000/b1s/v2/$metadata#B1Sessions/$entity",
+   "SessionId" : "8c71cc58-9d1f-11f1-c000-000c294ce516-140130776749952-24256",
+   "Version" : "1000270",
+   "SessionTimeout" : 30
+}

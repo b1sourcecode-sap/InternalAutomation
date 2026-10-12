@@ -1,0 +1,233 @@
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\bin\Debug\SalesPortIntegration.exe.config
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\bin\Debug\SalesPortIntegration.exe
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\bin\Debug\SalesPortIntegration.pdb
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\bin\Debug\Office.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\bin\Debug\Sap.Data.Hana.v3.5.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\bin\Debug\stdole.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\bin\Debug\Sap.Data.Hana.v3.5.xml
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\bin\Debug\Sap.Data.Hana.v3.5.dll.config
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.AssemblyReference.cache
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.ResolveComReference.cache
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.Properties.Resources.resources
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.GenerateResource.cache
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.CoreCompileInputs.cache
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.CopyComplete
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.exe
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\ItemCreationInterCompanyUtilityVehicle\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.pdb
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\SalesPortIntegration.exe.config
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\SalesPortIntegration.exe
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\SalesPortIntegration.pdb
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Office.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Sap.Data.Hana.v3.5.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\stdole.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Sap.Data.Hana.v3.5.xml
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Sap.Data.Hana.v3.5.dll.config
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.AssemblyReference.cache
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.ResolveComReference.cache
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.Properties.Resources.resources
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.GenerateResource.cache
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.CoreCompileInputs.cache
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.CopyComplete
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.exe
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.pdb
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.ResolveComReference.cache
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.Properties.Resources.resources
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.GenerateResource.cache
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.exe
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.pdb
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\SalesPortIntegration.exe.config
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\SalesPortIntegration.exe
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\SalesPortIntegration.pdb
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Sap.Data.Hana.v3.5.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Sap.Data.Hana.v3.5.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Sap.Data.Hana.v3.5.dll.config
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.CoreCompileInputs.cache
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.CopyComplete
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\netstandard.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.AppContext.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Collections.Concurrent.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Collections.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Collections.NonGeneric.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Collections.Specialized.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.ComponentModel.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Console.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Data.Common.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Diagnostics.Debug.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Diagnostics.Process.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Diagnostics.Tools.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Drawing.Primitives.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Dynamic.Runtime.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Globalization.Calendars.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Globalization.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Globalization.Extensions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.IO.Compression.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.IO.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.IO.FileSystem.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.IO.Pipes.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Linq.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Linq.Expressions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Linq.Parallel.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Linq.Queryable.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.Http.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.NameResolution.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.NetworkInformation.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.Ping.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.Primitives.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.Requests.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.Security.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.Sockets.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.WebSockets.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.ObjectModel.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Reflection.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Reflection.Extensions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Reflection.Primitives.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Resources.Reader.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Resources.ResourceManager.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Resources.Writer.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.Extensions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.Handles.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.InteropServices.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.Numerics.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Security.Claims.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Security.Principal.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Security.SecureString.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Text.Encoding.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Text.RegularExpressions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Threading.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Threading.Overlapped.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Threading.Tasks.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Threading.Thread.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Threading.ThreadPool.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Threading.Timer.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.ValueTuple.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Xml.XDocument.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Xml.XmlDocument.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Xml.XPath.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Buffers.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Memory.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.Http.Formatting.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Numerics.Vectors.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Text.Encodings.Web.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Web.Http.dll
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Mvc.WebApiCompatShim.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Buffers.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Memory.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Net.Http.Formatting.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Numerics.Vectors.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Text.Encodings.Web.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\bin\Debug\System.Web.Http.xml
+C:\Program Files\DTW\SalesPortIntegration\SalesPortDataExtraction\ItemCreationInterCompanyUtility\obj\x86\Debug\SalesPortIntegration.csproj.AssemblyReference.cache

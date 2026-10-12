@@ -1,0 +1,18 @@
+Connection Sucessfully with company DB:TESTINGLAXMI6/8/2022 1:51:50 PM
+Item Creation Sucessfully ItemCode:Bi3-ABC-B6S6/8/2022 1:51:53 PM
+Connection Sucessfully with company DB:TESTINGHKTM6/8/2022 1:51:55 PM
+Item Creation Sucessfully ItemCode:Bi3-ABC-B6S6/8/2022 1:51:57 PM
+Connection Sucessfully with company DB:TESTINGLAXMI6/8/2022 1:53:29 PM
+Item Updation Sucessfully ItemCode:Bi3-ABC-B6S6/8/2022 1:53:31 PM
+Connection Sucessfully with company DB:TESTINGHKTM6/8/2022 1:53:32 PM
+Item Updation Sucessfully ItemCode:Bi3-ABC-B6S6/8/2022 1:53:34 PM
+Connection Sucessfully with company DB:TESTINGLAXMI6/8/2022 2:29:16 PM
+Item Updation Sucessfully ItemCode:Bi3-ABC-B6S6/8/2022 2:29:17 PM
+Connection Sucessfully with company DB:TESTINGHKTM6/8/2022 2:29:19 PM
+Item Updation Sucessfully ItemCode:Bi3-ABC-B6S6/8/2022 2:29:21 PM
+Connection Sucessfully with company DB:TESTINGDHAPASI6/8/2022 2:29:24 PM
+Item Creation Sucessfully ItemCode:Bi3-ABC-B6S6/8/2022 2:29:27 PM
+Connection Sucessfully with company DB:TESTINGBINDHYA6/8/2022 2:29:50 PM
+Item Creation Sucessfully ItemCode:Bi3-ABC-B6S6/8/2022 2:29:55 PM
+Connection Sucessfully with company DB:TESTINGLIQUICK6/8/2022 2:29:58 PM
+Item Creation Sucessfully ItemCode:Bi3-ABC-B6S6/8/2022 2:30:01 PM

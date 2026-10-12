@@ -1,0 +1,6 @@
+Connection Sucessfully with company DB:LAXMILIVE_TEST4/26/2020 3:42:32 PM
+Item Updation Sucessfully ItemCode:JM-I104/26/2020 3:42:44 PM
+Connection Sucessfully with company DB:LAXMILIVE_TEST4/26/2020 4:04:35 PM
+Error in Item Updation ItemCode:Qxi-LXIA-RYS& error is: (1) Please Select Serial/Batch valuation method.4/26/2020 4:04:41 PM
+Connection Sucessfully with company DB:LAXMILIVE_TEST4/26/2020 4:06:59 PM
+Item Updation Sucessfully ItemCode:Qxi-LXIA-RYS4/26/2020 4:07:05 PM

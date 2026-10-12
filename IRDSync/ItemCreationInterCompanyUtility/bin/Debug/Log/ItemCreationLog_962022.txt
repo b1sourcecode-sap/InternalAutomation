@@ -1,0 +1,2 @@
+Connection Sucessfully with company DB:TESTINGLAXMI6/9/2022 1:25:06 PM
+Item Creation Sucessfully ItemCode:Bi3-ABC-U5S6/9/2022 1:25:10 PM

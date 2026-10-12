@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CompanyDetails>
+	<ExportExcelFilePath>V:\Sujal Dairy\Test Environment\Outbound\salesport\ExcelFile\</ExportExcelFilePath>
+	<ExportXMLFilePath>V:\Sujal Dairy\Test Environment\Outbound\salesport\XMLFile\</ExportXMLFilePath>
+	<ExportCSVFilePath>V:\Sujal Dairy\Test Environment\Outbound\salesport\CSVFile\</ExportCSVFilePath>
+  <!--<ServerName>172.16.1.201:30015</ServerName>
+  <LicenseServer>172.16.1.201</LicenseServer>
+  <UserID>SYSTEM</UserID>
+  <Password>P@ssw0rD</Password>
+  <CurrentSchema>SUJALDAIRYLIVE</CurrentSchema>-->
+
+  <SapUser>manager</SapUser>
+  <SapPassword>sap@9921</SapPassword>
+  
+  </CompanyDetails>

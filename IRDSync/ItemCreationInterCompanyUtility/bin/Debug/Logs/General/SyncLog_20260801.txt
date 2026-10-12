@@ -1,0 +1,4 @@
+2026-08-01 18:30:03 [INFO] ===== GLOBAL PROCESS START =====
+2026-08-01 18:30:03 [INFO] Reading configuration from: D:\BIBAS\Addon_ver10\KTM-200\Addon-03032024\IRDSync\ItemCreationInterCompanyUtility\bin\IRDDetails.xlsx
+2026-08-01 18:30:09 [INFO] Successfully loaded 2 databases from Excel.
+2026-08-01 18:32:13 [INFO] ===== GLOBAL PROCESS FINISHED =====

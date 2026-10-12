@@ -1,0 +1,1869 @@
+2026-08-01 18:30:09 [INFO] --- STARTING SYNC FOR DB: SUJALDAIRYLIVE ---
+2026-08-01 18:30:09 [INFO] Found 622 pending invoices.
+2026-08-01 18:30:09 [INFO] Processing Invoice DocEntry: 1103577
+2026-08-01 18:30:10 [INFO] API Result for 1103577: Y - 200
+2026-08-01 18:30:10 [INFO] HANA status updated for 1103577
+2026-08-01 18:30:10 [INFO] Processing Invoice DocEntry: 1103590
+2026-08-01 18:30:10 [INFO] API Result for 1103590: Y - 200
+2026-08-01 18:30:10 [INFO] HANA status updated for 1103590
+2026-08-01 18:30:10 [INFO] Processing Invoice DocEntry: 1103621
+2026-08-01 18:30:10 [INFO] API Result for 1103621: Y - 200
+2026-08-01 18:30:10 [INFO] HANA status updated for 1103621
+2026-08-01 18:30:10 [INFO] Processing Invoice DocEntry: 1103622
+2026-08-01 18:30:10 [INFO] API Result for 1103622: N - 
+2026-08-01 18:30:10 [INFO] HANA status updated for 1103622
+2026-08-01 18:30:10 [INFO] Processing Invoice DocEntry: 1103637
+2026-08-01 18:30:10 [INFO] API Result for 1103637: Y - 200
+2026-08-01 18:30:10 [INFO] HANA status updated for 1103637
+2026-08-01 18:30:10 [INFO] Processing Invoice DocEntry: 1103704
+2026-08-01 18:30:11 [INFO] API Result for 1103704: Y - 200
+2026-08-01 18:30:11 [INFO] HANA status updated for 1103704
+2026-08-01 18:30:11 [INFO] Processing Invoice DocEntry: 1103705
+2026-08-01 18:30:11 [INFO] API Result for 1103705: Y - 200
+2026-08-01 18:30:11 [INFO] HANA status updated for 1103705
+2026-08-01 18:30:11 [INFO] Processing Invoice DocEntry: 1103706
+2026-08-01 18:30:11 [INFO] API Result for 1103706: Y - 200
+2026-08-01 18:30:11 [INFO] HANA status updated for 1103706
+2026-08-01 18:30:11 [INFO] Processing Invoice DocEntry: 1103707
+2026-08-01 18:30:11 [INFO] API Result for 1103707: Y - 200
+2026-08-01 18:30:11 [INFO] HANA status updated for 1103707
+2026-08-01 18:30:11 [INFO] Processing Invoice DocEntry: 1103708
+2026-08-01 18:30:12 [INFO] API Result for 1103708: Y - 200
+2026-08-01 18:30:12 [INFO] HANA status updated for 1103708
+2026-08-01 18:30:12 [INFO] Processing Invoice DocEntry: 1103709
+2026-08-01 18:30:12 [INFO] API Result for 1103709: Y - 200
+2026-08-01 18:30:12 [INFO] HANA status updated for 1103709
+2026-08-01 18:30:12 [INFO] Processing Invoice DocEntry: 1103710
+2026-08-01 18:30:12 [INFO] API Result for 1103710: Y - 200
+2026-08-01 18:30:12 [INFO] HANA status updated for 1103710
+2026-08-01 18:30:12 [INFO] Processing Invoice DocEntry: 1103711
+2026-08-01 18:30:12 [INFO] API Result for 1103711: Y - 200
+2026-08-01 18:30:12 [INFO] HANA status updated for 1103711
+2026-08-01 18:30:12 [INFO] Processing Invoice DocEntry: 1103712
+2026-08-01 18:30:12 [INFO] API Result for 1103712: Y - 200
+2026-08-01 18:30:12 [INFO] HANA status updated for 1103712
+2026-08-01 18:30:12 [INFO] Processing Invoice DocEntry: 1103714
+2026-08-01 18:30:13 [INFO] API Result for 1103714: Y - 200
+2026-08-01 18:30:13 [INFO] HANA status updated for 1103714
+2026-08-01 18:30:13 [INFO] Processing Invoice DocEntry: 1103715
+2026-08-01 18:30:13 [INFO] API Result for 1103715: Y - 200
+2026-08-01 18:30:13 [INFO] HANA status updated for 1103715
+2026-08-01 18:30:13 [INFO] Processing Invoice DocEntry: 1103716
+2026-08-01 18:30:13 [INFO] API Result for 1103716: Y - 200
+2026-08-01 18:30:13 [INFO] HANA status updated for 1103716
+2026-08-01 18:30:13 [INFO] Processing Invoice DocEntry: 1103717
+2026-08-01 18:30:13 [INFO] API Result for 1103717: Y - 200
+2026-08-01 18:30:13 [INFO] HANA status updated for 1103717
+2026-08-01 18:30:13 [INFO] Processing Invoice DocEntry: 1103718
+2026-08-01 18:30:13 [INFO] API Result for 1103718: Y - 200
+2026-08-01 18:30:13 [INFO] HANA status updated for 1103718
+2026-08-01 18:30:13 [INFO] Processing Invoice DocEntry: 1103719
+2026-08-01 18:30:14 [INFO] API Result for 1103719: Y - 200
+2026-08-01 18:30:14 [INFO] HANA status updated for 1103719
+2026-08-01 18:30:14 [INFO] Processing Invoice DocEntry: 1103721
+2026-08-01 18:30:14 [INFO] API Result for 1103721: Y - 200
+2026-08-01 18:30:14 [INFO] HANA status updated for 1103721
+2026-08-01 18:30:14 [INFO] Processing Invoice DocEntry: 1103722
+2026-08-01 18:30:14 [INFO] API Result for 1103722: Y - 200
+2026-08-01 18:30:14 [INFO] HANA status updated for 1103722
+2026-08-01 18:30:14 [INFO] Processing Invoice DocEntry: 1103723
+2026-08-01 18:30:14 [INFO] API Result for 1103723: Y - 200
+2026-08-01 18:30:14 [INFO] HANA status updated for 1103723
+2026-08-01 18:30:14 [INFO] Processing Invoice DocEntry: 1103724
+2026-08-01 18:30:14 [INFO] API Result for 1103724: N - 
+2026-08-01 18:30:14 [INFO] HANA status updated for 1103724
+2026-08-01 18:30:14 [INFO] Processing Invoice DocEntry: 1103727
+2026-08-01 18:30:15 [INFO] API Result for 1103727: Y - 200
+2026-08-01 18:30:15 [INFO] HANA status updated for 1103727
+2026-08-01 18:30:15 [INFO] Processing Invoice DocEntry: 1103733
+2026-08-01 18:30:15 [INFO] API Result for 1103733: Y - 200
+2026-08-01 18:30:15 [INFO] HANA status updated for 1103733
+2026-08-01 18:30:15 [INFO] Processing Invoice DocEntry: 1103728
+2026-08-01 18:30:15 [INFO] API Result for 1103728: Y - 200
+2026-08-01 18:30:15 [INFO] HANA status updated for 1103728
+2026-08-01 18:30:15 [INFO] Processing Invoice DocEntry: 1103734
+2026-08-01 18:30:15 [INFO] API Result for 1103734: Y - 200
+2026-08-01 18:30:15 [INFO] HANA status updated for 1103734
+2026-08-01 18:30:15 [INFO] Processing Invoice DocEntry: 1103730
+2026-08-01 18:30:15 [INFO] API Result for 1103730: Y - 200
+2026-08-01 18:30:15 [INFO] HANA status updated for 1103730
+2026-08-01 18:30:15 [INFO] Processing Invoice DocEntry: 1103731
+2026-08-01 18:30:16 [INFO] API Result for 1103731: Y - 200
+2026-08-01 18:30:16 [INFO] HANA status updated for 1103731
+2026-08-01 18:30:16 [INFO] Processing Invoice DocEntry: 1103732
+2026-08-01 18:30:16 [INFO] API Result for 1103732: Y - 200
+2026-08-01 18:30:16 [INFO] HANA status updated for 1103732
+2026-08-01 18:30:16 [INFO] Processing Invoice DocEntry: 1103729
+2026-08-01 18:30:16 [INFO] API Result for 1103729: Y - 200
+2026-08-01 18:30:16 [INFO] HANA status updated for 1103729
+2026-08-01 18:30:16 [INFO] Processing Invoice DocEntry: 1103735
+2026-08-01 18:30:16 [INFO] API Result for 1103735: Y - 200
+2026-08-01 18:30:16 [INFO] HANA status updated for 1103735
+2026-08-01 18:30:16 [INFO] Processing Invoice DocEntry: 1103736
+2026-08-01 18:30:16 [INFO] API Result for 1103736: Y - 200
+2026-08-01 18:30:16 [INFO] HANA status updated for 1103736
+2026-08-01 18:30:16 [INFO] Processing Invoice DocEntry: 1103738
+2026-08-01 18:30:17 [INFO] API Result for 1103738: Y - 200
+2026-08-01 18:30:17 [INFO] HANA status updated for 1103738
+2026-08-01 18:30:17 [INFO] Processing Invoice DocEntry: 1103739
+2026-08-01 18:30:17 [INFO] API Result for 1103739: Y - 200
+2026-08-01 18:30:17 [INFO] HANA status updated for 1103739
+2026-08-01 18:30:17 [INFO] Processing Invoice DocEntry: 1103740
+2026-08-01 18:30:17 [INFO] API Result for 1103740: N - 
+2026-08-01 18:30:17 [INFO] HANA status updated for 1103740
+2026-08-01 18:30:17 [INFO] Processing Invoice DocEntry: 1103741
+2026-08-01 18:30:17 [INFO] API Result for 1103741: Y - 200
+2026-08-01 18:30:17 [INFO] HANA status updated for 1103741
+2026-08-01 18:30:17 [INFO] Processing Invoice DocEntry: 1103743
+2026-08-01 18:30:17 [INFO] API Result for 1103743: Y - 200
+2026-08-01 18:30:17 [INFO] HANA status updated for 1103743
+2026-08-01 18:30:17 [INFO] Processing Invoice DocEntry: 1103744
+2026-08-01 18:30:18 [INFO] API Result for 1103744: Y - 200
+2026-08-01 18:30:18 [INFO] HANA status updated for 1103744
+2026-08-01 18:30:18 [INFO] Processing Invoice DocEntry: 1103745
+2026-08-01 18:30:18 [INFO] API Result for 1103745: Y - 200
+2026-08-01 18:30:18 [INFO] HANA status updated for 1103745
+2026-08-01 18:30:18 [INFO] Processing Invoice DocEntry: 1103746
+2026-08-01 18:30:18 [INFO] API Result for 1103746: Y - 200
+2026-08-01 18:30:18 [INFO] HANA status updated for 1103746
+2026-08-01 18:30:18 [INFO] Processing Invoice DocEntry: 1103747
+2026-08-01 18:30:18 [INFO] API Result for 1103747: Y - 200
+2026-08-01 18:30:18 [INFO] HANA status updated for 1103747
+2026-08-01 18:30:18 [INFO] Processing Invoice DocEntry: 1103748
+2026-08-01 18:30:19 [INFO] API Result for 1103748: Y - 200
+2026-08-01 18:30:19 [INFO] HANA status updated for 1103748
+2026-08-01 18:30:19 [INFO] Processing Invoice DocEntry: 1103752
+2026-08-01 18:30:19 [INFO] API Result for 1103752: Y - 200
+2026-08-01 18:30:19 [INFO] HANA status updated for 1103752
+2026-08-01 18:30:19 [INFO] Processing Invoice DocEntry: 1103753
+2026-08-01 18:30:19 [INFO] API Result for 1103753: Y - 200
+2026-08-01 18:30:19 [INFO] HANA status updated for 1103753
+2026-08-01 18:30:19 [INFO] Processing Invoice DocEntry: 1103754
+2026-08-01 18:30:19 [INFO] API Result for 1103754: Y - 200
+2026-08-01 18:30:19 [INFO] HANA status updated for 1103754
+2026-08-01 18:30:19 [INFO] Processing Invoice DocEntry: 1103755
+2026-08-01 18:30:19 [INFO] API Result for 1103755: Y - 200
+2026-08-01 18:30:19 [INFO] HANA status updated for 1103755
+2026-08-01 18:30:19 [INFO] Processing Invoice DocEntry: 1103756
+2026-08-01 18:30:19 [INFO] API Result for 1103756: Y - 200
+2026-08-01 18:30:20 [INFO] HANA status updated for 1103756
+2026-08-01 18:30:20 [INFO] Processing Invoice DocEntry: 1103757
+2026-08-01 18:30:20 [INFO] API Result for 1103757: Y - 200
+2026-08-01 18:30:20 [INFO] HANA status updated for 1103757
+2026-08-01 18:30:20 [INFO] Processing Invoice DocEntry: 1103758
+2026-08-01 18:30:20 [INFO] API Result for 1103758: Y - 200
+2026-08-01 18:30:20 [INFO] HANA status updated for 1103758
+2026-08-01 18:30:20 [INFO] Processing Invoice DocEntry: 1103759
+2026-08-01 18:30:20 [INFO] API Result for 1103759: Y - 200
+2026-08-01 18:30:20 [INFO] HANA status updated for 1103759
+2026-08-01 18:30:20 [INFO] Processing Invoice DocEntry: 1103760
+2026-08-01 18:30:20 [INFO] API Result for 1103760: Y - 200
+2026-08-01 18:30:20 [INFO] HANA status updated for 1103760
+2026-08-01 18:30:20 [INFO] Processing Invoice DocEntry: 1103761
+2026-08-01 18:30:21 [INFO] API Result for 1103761: Y - 200
+2026-08-01 18:30:21 [INFO] HANA status updated for 1103761
+2026-08-01 18:30:21 [INFO] Processing Invoice DocEntry: 1103762
+2026-08-01 18:30:21 [INFO] API Result for 1103762: Y - 200
+2026-08-01 18:30:21 [INFO] HANA status updated for 1103762
+2026-08-01 18:30:21 [INFO] Processing Invoice DocEntry: 1103763
+2026-08-01 18:30:21 [INFO] API Result for 1103763: Y - 200
+2026-08-01 18:30:21 [INFO] HANA status updated for 1103763
+2026-08-01 18:30:21 [INFO] Processing Invoice DocEntry: 1103764
+2026-08-01 18:30:21 [INFO] API Result for 1103764: N - 
+2026-08-01 18:30:21 [INFO] HANA status updated for 1103764
+2026-08-01 18:30:21 [INFO] Processing Invoice DocEntry: 1103767
+2026-08-01 18:30:21 [INFO] API Result for 1103767: Y - 200
+2026-08-01 18:30:21 [INFO] HANA status updated for 1103767
+2026-08-01 18:30:21 [INFO] Processing Invoice DocEntry: 1103768
+2026-08-01 18:30:22 [INFO] API Result for 1103768: Y - 200
+2026-08-01 18:30:22 [INFO] HANA status updated for 1103768
+2026-08-01 18:30:22 [INFO] Processing Invoice DocEntry: 1103770
+2026-08-01 18:30:22 [INFO] API Result for 1103770: Y - 200
+2026-08-01 18:30:22 [INFO] HANA status updated for 1103770
+2026-08-01 18:30:22 [INFO] Processing Invoice DocEntry: 1103771
+2026-08-01 18:30:22 [INFO] API Result for 1103771: Y - 200
+2026-08-01 18:30:23 [INFO] HANA status updated for 1103771
+2026-08-01 18:30:23 [INFO] Processing Invoice DocEntry: 1103772
+2026-08-01 18:30:23 [INFO] API Result for 1103772: Y - 200
+2026-08-01 18:30:23 [INFO] HANA status updated for 1103772
+2026-08-01 18:30:23 [INFO] Processing Invoice DocEntry: 1103773
+2026-08-01 18:30:23 [INFO] API Result for 1103773: Y - 200
+2026-08-01 18:30:24 [INFO] HANA status updated for 1103773
+2026-08-01 18:30:24 [INFO] Processing Invoice DocEntry: 1103774
+2026-08-01 18:30:24 [INFO] API Result for 1103774: Y - 200
+2026-08-01 18:30:24 [INFO] HANA status updated for 1103774
+2026-08-01 18:30:24 [INFO] Processing Invoice DocEntry: 1103775
+2026-08-01 18:30:24 [INFO] API Result for 1103775: Y - 200
+2026-08-01 18:30:24 [INFO] HANA status updated for 1103775
+2026-08-01 18:30:24 [INFO] Processing Invoice DocEntry: 1103776
+2026-08-01 18:30:24 [INFO] API Result for 1103776: Y - 200
+2026-08-01 18:30:24 [INFO] HANA status updated for 1103776
+2026-08-01 18:30:24 [INFO] Processing Invoice DocEntry: 1103777
+2026-08-01 18:30:24 [INFO] API Result for 1103777: Y - 200
+2026-08-01 18:30:24 [INFO] HANA status updated for 1103777
+2026-08-01 18:30:24 [INFO] Processing Invoice DocEntry: 1103778
+2026-08-01 18:30:25 [INFO] API Result for 1103778: Y - 200
+2026-08-01 18:30:25 [INFO] HANA status updated for 1103778
+2026-08-01 18:30:25 [INFO] Processing Invoice DocEntry: 1103779
+2026-08-01 18:30:25 [INFO] API Result for 1103779: Y - 200
+2026-08-01 18:30:25 [INFO] HANA status updated for 1103779
+2026-08-01 18:30:25 [INFO] Processing Invoice DocEntry: 1103780
+2026-08-01 18:30:25 [INFO] API Result for 1103780: Y - 200
+2026-08-01 18:30:25 [INFO] HANA status updated for 1103780
+2026-08-01 18:30:25 [INFO] Processing Invoice DocEntry: 1103677
+2026-08-01 18:30:25 [INFO] API Result for 1103677: Y - 200
+2026-08-01 18:30:25 [INFO] HANA status updated for 1103677
+2026-08-01 18:30:25 [INFO] Processing Invoice DocEntry: 1103675
+2026-08-01 18:30:25 [INFO] API Result for 1103675: Y - 200
+2026-08-01 18:30:25 [INFO] HANA status updated for 1103675
+2026-08-01 18:30:25 [INFO] Processing Invoice DocEntry: 1103673
+2026-08-01 18:30:26 [INFO] API Result for 1103673: Y - 200
+2026-08-01 18:30:26 [INFO] HANA status updated for 1103673
+2026-08-01 18:30:26 [INFO] Processing Invoice DocEntry: 1103580
+2026-08-01 18:30:26 [INFO] API Result for 1103580: Y - 200
+2026-08-01 18:30:26 [INFO] HANA status updated for 1103580
+2026-08-01 18:30:26 [INFO] Processing Invoice DocEntry: 1103582
+2026-08-01 18:30:26 [INFO] API Result for 1103582: Y - 200
+2026-08-01 18:30:26 [INFO] HANA status updated for 1103582
+2026-08-01 18:30:26 [INFO] Processing Invoice DocEntry: 1103581
+2026-08-01 18:30:26 [INFO] API Result for 1103581: N - 
+2026-08-01 18:30:26 [INFO] HANA status updated for 1103581
+2026-08-01 18:30:26 [INFO] Processing Invoice DocEntry: 1103781
+2026-08-01 18:30:26 [INFO] API Result for 1103781: Y - 200
+2026-08-01 18:30:26 [INFO] HANA status updated for 1103781
+2026-08-01 18:30:26 [INFO] Processing Invoice DocEntry: 1103782
+2026-08-01 18:30:27 [INFO] API Result for 1103782: Y - 200
+2026-08-01 18:30:27 [INFO] HANA status updated for 1103782
+2026-08-01 18:30:27 [INFO] Processing Invoice DocEntry: 1103784
+2026-08-01 18:30:27 [INFO] API Result for 1103784: Y - 200
+2026-08-01 18:30:27 [INFO] HANA status updated for 1103784
+2026-08-01 18:30:27 [INFO] Processing Invoice DocEntry: 1103785
+2026-08-01 18:30:27 [INFO] API Result for 1103785: Y - 200
+2026-08-01 18:30:27 [INFO] HANA status updated for 1103785
+2026-08-01 18:30:27 [INFO] Processing Invoice DocEntry: 1103786
+2026-08-01 18:30:27 [INFO] API Result for 1103786: Y - 200
+2026-08-01 18:30:27 [INFO] HANA status updated for 1103786
+2026-08-01 18:30:27 [INFO] Processing Invoice DocEntry: 1103742
+2026-08-01 18:30:27 [INFO] API Result for 1103742: N - 101
+2026-08-01 18:30:27 [INFO] HANA status updated for 1103742
+2026-08-01 18:30:27 [INFO] Processing Invoice DocEntry: 1103787
+2026-08-01 18:30:28 [INFO] API Result for 1103787: Y - 200
+2026-08-01 18:30:28 [INFO] HANA status updated for 1103787
+2026-08-01 18:30:28 [INFO] Processing Invoice DocEntry: 1103698
+2026-08-01 18:30:28 [INFO] API Result for 1103698: Y - 200
+2026-08-01 18:30:28 [INFO] HANA status updated for 1103698
+2026-08-01 18:30:28 [INFO] Processing Invoice DocEntry: 1103788
+2026-08-01 18:30:28 [INFO] API Result for 1103788: Y - 200
+2026-08-01 18:30:28 [INFO] HANA status updated for 1103788
+2026-08-01 18:30:28 [INFO] Processing Invoice DocEntry: 1103789
+2026-08-01 18:30:28 [INFO] API Result for 1103789: Y - 200
+2026-08-01 18:30:28 [INFO] HANA status updated for 1103789
+2026-08-01 18:30:28 [INFO] Processing Invoice DocEntry: 1103688
+2026-08-01 18:30:28 [INFO] API Result for 1103688: Y - 200
+2026-08-01 18:30:28 [INFO] HANA status updated for 1103688
+2026-08-01 18:30:28 [INFO] Processing Invoice DocEntry: 1103681
+2026-08-01 18:30:29 [INFO] API Result for 1103681: Y - 200
+2026-08-01 18:30:29 [INFO] HANA status updated for 1103681
+2026-08-01 18:30:29 [INFO] Processing Invoice DocEntry: 1103790
+2026-08-01 18:30:29 [INFO] API Result for 1103790: Y - 200
+2026-08-01 18:30:29 [INFO] HANA status updated for 1103790
+2026-08-01 18:30:29 [INFO] Processing Invoice DocEntry: 1103562
+2026-08-01 18:30:29 [INFO] API Result for 1103562: Y - 200
+2026-08-01 18:30:29 [INFO] HANA status updated for 1103562
+2026-08-01 18:30:29 [INFO] Processing Invoice DocEntry: 1103791
+2026-08-01 18:30:29 [INFO] API Result for 1103791: Y - 200
+2026-08-01 18:30:29 [INFO] HANA status updated for 1103791
+2026-08-01 18:30:29 [INFO] Processing Invoice DocEntry: 1103792
+2026-08-01 18:30:30 [INFO] API Result for 1103792: Y - 200
+2026-08-01 18:30:30 [INFO] HANA status updated for 1103792
+2026-08-01 18:30:30 [INFO] Processing Invoice DocEntry: 1103793
+2026-08-01 18:30:30 [INFO] API Result for 1103793: Y - 200
+2026-08-01 18:30:30 [INFO] HANA status updated for 1103793
+2026-08-01 18:30:30 [INFO] Processing Invoice DocEntry: 1103578
+2026-08-01 18:30:30 [INFO] API Result for 1103578: Y - 200
+2026-08-01 18:30:30 [INFO] HANA status updated for 1103578
+2026-08-01 18:30:30 [INFO] Processing Invoice DocEntry: 1103576
+2026-08-01 18:30:30 [INFO] API Result for 1103576: Y - 200
+2026-08-01 18:30:30 [INFO] HANA status updated for 1103576
+2026-08-01 18:30:30 [INFO] Processing Invoice DocEntry: 1103795
+2026-08-01 18:30:31 [INFO] API Result for 1103795: Y - 200
+2026-08-01 18:30:31 [INFO] HANA status updated for 1103795
+2026-08-01 18:30:31 [INFO] Processing Invoice DocEntry: 1103796
+2026-08-01 18:30:31 [INFO] API Result for 1103796: Y - 200
+2026-08-01 18:30:31 [INFO] HANA status updated for 1103796
+2026-08-01 18:30:31 [INFO] Processing Invoice DocEntry: 1103797
+2026-08-01 18:30:31 [INFO] API Result for 1103797: Y - 200
+2026-08-01 18:30:31 [INFO] HANA status updated for 1103797
+2026-08-01 18:30:31 [INFO] Processing Invoice DocEntry: 1103798
+2026-08-01 18:30:31 [INFO] API Result for 1103798: Y - 200
+2026-08-01 18:30:31 [INFO] HANA status updated for 1103798
+2026-08-01 18:30:31 [INFO] Processing Invoice DocEntry: 1103750
+2026-08-01 18:30:31 [INFO] API Result for 1103750: N - 101
+2026-08-01 18:30:31 [INFO] HANA status updated for 1103750
+2026-08-01 18:30:31 [INFO] Processing Invoice DocEntry: 1103799
+2026-08-01 18:30:32 [INFO] API Result for 1103799: Y - 200
+2026-08-01 18:30:32 [INFO] HANA status updated for 1103799
+2026-08-01 18:30:32 [INFO] Processing Invoice DocEntry: 1103801
+2026-08-01 18:30:32 [INFO] API Result for 1103801: Y - 200
+2026-08-01 18:30:32 [INFO] HANA status updated for 1103801
+2026-08-01 18:30:32 [INFO] Processing Invoice DocEntry: 1103802
+2026-08-01 18:30:32 [INFO] API Result for 1103802: Y - 200
+2026-08-01 18:30:32 [INFO] HANA status updated for 1103802
+2026-08-01 18:30:32 [INFO] Processing Invoice DocEntry: 1103803
+2026-08-01 18:30:32 [INFO] API Result for 1103803: Y - 200
+2026-08-01 18:30:32 [INFO] HANA status updated for 1103803
+2026-08-01 18:30:32 [INFO] Processing Invoice DocEntry: 1103804
+2026-08-01 18:30:33 [INFO] API Result for 1103804: Y - 200
+2026-08-01 18:30:33 [INFO] HANA status updated for 1103804
+2026-08-01 18:30:33 [INFO] Processing Invoice DocEntry: 1103805
+2026-08-01 18:30:33 [INFO] API Result for 1103805: Y - 200
+2026-08-01 18:30:33 [INFO] HANA status updated for 1103805
+2026-08-01 18:30:33 [INFO] Processing Invoice DocEntry: 1103806
+2026-08-01 18:30:33 [INFO] API Result for 1103806: Y - 200
+2026-08-01 18:30:33 [INFO] HANA status updated for 1103806
+2026-08-01 18:30:33 [INFO] Processing Invoice DocEntry: 1103807
+2026-08-01 18:30:33 [INFO] API Result for 1103807: Y - 200
+2026-08-01 18:30:33 [INFO] HANA status updated for 1103807
+2026-08-01 18:30:33 [INFO] Processing Invoice DocEntry: 1103808
+2026-08-01 18:30:33 [INFO] API Result for 1103808: Y - 200
+2026-08-01 18:30:33 [INFO] HANA status updated for 1103808
+2026-08-01 18:30:33 [INFO] Processing Invoice DocEntry: 1103809
+2026-08-01 18:30:34 [INFO] API Result for 1103809: Y - 200
+2026-08-01 18:30:34 [INFO] HANA status updated for 1103809
+2026-08-01 18:30:34 [INFO] Processing Invoice DocEntry: 1103810
+2026-08-01 18:30:34 [INFO] API Result for 1103810: Y - 200
+2026-08-01 18:30:34 [INFO] HANA status updated for 1103810
+2026-08-01 18:30:34 [INFO] Processing Invoice DocEntry: 1103811
+2026-08-01 18:30:34 [INFO] API Result for 1103811: Y - 200
+2026-08-01 18:30:34 [INFO] HANA status updated for 1103811
+2026-08-01 18:30:34 [INFO] Processing Invoice DocEntry: 1103812
+2026-08-01 18:30:34 [INFO] API Result for 1103812: Y - 200
+2026-08-01 18:30:34 [INFO] HANA status updated for 1103812
+2026-08-01 18:30:34 [INFO] Processing Invoice DocEntry: 1103813
+2026-08-01 18:30:34 [INFO] API Result for 1103813: Y - 200
+2026-08-01 18:30:34 [INFO] HANA status updated for 1103813
+2026-08-01 18:30:34 [INFO] Processing Invoice DocEntry: 1103814
+2026-08-01 18:30:35 [INFO] API Result for 1103814: Y - 200
+2026-08-01 18:30:35 [INFO] HANA status updated for 1103814
+2026-08-01 18:30:35 [INFO] Processing Invoice DocEntry: 1103815
+2026-08-01 18:30:35 [INFO] API Result for 1103815: N - 
+2026-08-01 18:30:35 [INFO] HANA status updated for 1103815
+2026-08-01 18:30:35 [INFO] Processing Invoice DocEntry: 1103816
+2026-08-01 18:30:35 [INFO] API Result for 1103816: Y - 200
+2026-08-01 18:30:35 [INFO] HANA status updated for 1103816
+2026-08-01 18:30:35 [INFO] Processing Invoice DocEntry: 1103817
+2026-08-01 18:30:35 [INFO] API Result for 1103817: Y - 200
+2026-08-01 18:30:35 [INFO] HANA status updated for 1103817
+2026-08-01 18:30:35 [INFO] Processing Invoice DocEntry: 1103818
+2026-08-01 18:30:35 [INFO] API Result for 1103818: Y - 200
+2026-08-01 18:30:35 [INFO] HANA status updated for 1103818
+2026-08-01 18:30:35 [INFO] Processing Invoice DocEntry: 1103819
+2026-08-01 18:30:36 [INFO] API Result for 1103819: Y - 200
+2026-08-01 18:30:36 [INFO] HANA status updated for 1103819
+2026-08-01 18:30:36 [INFO] Processing Invoice DocEntry: 1103820
+2026-08-01 18:30:36 [INFO] API Result for 1103820: Y - 200
+2026-08-01 18:30:36 [INFO] HANA status updated for 1103820
+2026-08-01 18:30:36 [INFO] Processing Invoice DocEntry: 1103821
+2026-08-01 18:30:36 [INFO] API Result for 1103821: Y - 200
+2026-08-01 18:30:36 [INFO] HANA status updated for 1103821
+2026-08-01 18:30:36 [INFO] Processing Invoice DocEntry: 1103822
+2026-08-01 18:30:36 [INFO] API Result for 1103822: Y - 200
+2026-08-01 18:30:36 [INFO] HANA status updated for 1103822
+2026-08-01 18:30:36 [INFO] Processing Invoice DocEntry: 1103823
+2026-08-01 18:30:37 [INFO] API Result for 1103823: Y - 200
+2026-08-01 18:30:37 [INFO] HANA status updated for 1103823
+2026-08-01 18:30:37 [INFO] Processing Invoice DocEntry: 1103824
+2026-08-01 18:30:37 [INFO] API Result for 1103824: Y - 200
+2026-08-01 18:30:37 [INFO] HANA status updated for 1103824
+2026-08-01 18:30:37 [INFO] Processing Invoice DocEntry: 1103846
+2026-08-01 18:30:37 [INFO] API Result for 1103846: Y - 200
+2026-08-01 18:30:37 [INFO] HANA status updated for 1103846
+2026-08-01 18:30:37 [INFO] Processing Invoice DocEntry: 1103847
+2026-08-01 18:30:37 [INFO] API Result for 1103847: Y - 200
+2026-08-01 18:30:37 [INFO] HANA status updated for 1103847
+2026-08-01 18:30:37 [INFO] Processing Invoice DocEntry: 1103848
+2026-08-01 18:30:37 [INFO] API Result for 1103848: Y - 200
+2026-08-01 18:30:38 [INFO] HANA status updated for 1103848
+2026-08-01 18:30:38 [INFO] Processing Invoice DocEntry: 1103849
+2026-08-01 18:30:38 [INFO] API Result for 1103849: Y - 200
+2026-08-01 18:30:38 [INFO] HANA status updated for 1103849
+2026-08-01 18:30:38 [INFO] Processing Invoice DocEntry: 1103850
+2026-08-01 18:30:38 [INFO] API Result for 1103850: Y - 200
+2026-08-01 18:30:38 [INFO] HANA status updated for 1103850
+2026-08-01 18:30:38 [INFO] Processing Invoice DocEntry: 1103862
+2026-08-01 18:30:38 [INFO] API Result for 1103862: Y - 200
+2026-08-01 18:30:38 [INFO] HANA status updated for 1103862
+2026-08-01 18:30:38 [INFO] Processing Invoice DocEntry: 1103877
+2026-08-01 18:30:38 [INFO] API Result for 1103877: Y - 200
+2026-08-01 18:30:38 [INFO] HANA status updated for 1103877
+2026-08-01 18:30:38 [INFO] Processing Invoice DocEntry: 1103879
+2026-08-01 18:30:39 [INFO] API Result for 1103879: Y - 200
+2026-08-01 18:30:39 [INFO] HANA status updated for 1103879
+2026-08-01 18:30:39 [INFO] Processing Invoice DocEntry: 1103882
+2026-08-01 18:30:39 [INFO] API Result for 1103882: Y - 200
+2026-08-01 18:30:39 [INFO] HANA status updated for 1103882
+2026-08-01 18:30:39 [INFO] Processing Invoice DocEntry: 1103893
+2026-08-01 18:30:39 [INFO] API Result for 1103893: Y - 200
+2026-08-01 18:30:39 [INFO] HANA status updated for 1103893
+2026-08-01 18:30:39 [INFO] Processing Invoice DocEntry: 1103895
+2026-08-01 18:30:39 [INFO] API Result for 1103895: Y - 200
+2026-08-01 18:30:39 [INFO] HANA status updated for 1103895
+2026-08-01 18:30:39 [INFO] Processing Invoice DocEntry: 1103896
+2026-08-01 18:30:39 [INFO] API Result for 1103896: Y - 200
+2026-08-01 18:30:39 [INFO] HANA status updated for 1103896
+2026-08-01 18:30:39 [INFO] Processing Invoice DocEntry: 1103898
+2026-08-01 18:30:40 [INFO] API Result for 1103898: Y - 200
+2026-08-01 18:30:40 [INFO] HANA status updated for 1103898
+2026-08-01 18:30:40 [INFO] Processing Invoice DocEntry: 1103899
+2026-08-01 18:30:40 [INFO] API Result for 1103899: Y - 200
+2026-08-01 18:30:40 [INFO] HANA status updated for 1103899
+2026-08-01 18:30:40 [INFO] Processing Invoice DocEntry: 1103900
+2026-08-01 18:30:40 [INFO] API Result for 1103900: Y - 200
+2026-08-01 18:30:40 [INFO] HANA status updated for 1103900
+2026-08-01 18:30:40 [INFO] Processing Invoice DocEntry: 1103901
+2026-08-01 18:30:40 [INFO] API Result for 1103901: Y - 200
+2026-08-01 18:30:40 [INFO] HANA status updated for 1103901
+2026-08-01 18:30:40 [INFO] Processing Invoice DocEntry: 1103902
+2026-08-01 18:30:40 [INFO] API Result for 1103902: Y - 200
+2026-08-01 18:30:40 [INFO] HANA status updated for 1103902
+2026-08-01 18:30:40 [INFO] Processing Invoice DocEntry: 1103903
+2026-08-01 18:30:41 [INFO] API Result for 1103903: Y - 200
+2026-08-01 18:30:41 [INFO] HANA status updated for 1103903
+2026-08-01 18:30:41 [INFO] Processing Invoice DocEntry: 1103904
+2026-08-01 18:30:41 [INFO] API Result for 1103904: Y - 200
+2026-08-01 18:30:41 [INFO] HANA status updated for 1103904
+2026-08-01 18:30:41 [INFO] Processing Invoice DocEntry: 1103907
+2026-08-01 18:30:41 [INFO] API Result for 1103907: Y - 200
+2026-08-01 18:30:41 [INFO] HANA status updated for 1103907
+2026-08-01 18:30:41 [INFO] Processing Invoice DocEntry: 1103906
+2026-08-01 18:30:41 [INFO] API Result for 1103906: Y - 200
+2026-08-01 18:30:41 [INFO] HANA status updated for 1103906
+2026-08-01 18:30:41 [INFO] Processing Invoice DocEntry: 1103908
+2026-08-01 18:30:41 [INFO] API Result for 1103908: Y - 200
+2026-08-01 18:30:41 [INFO] HANA status updated for 1103908
+2026-08-01 18:30:41 [INFO] Processing Invoice DocEntry: 1103909
+2026-08-01 18:30:42 [INFO] API Result for 1103909: Y - 200
+2026-08-01 18:30:42 [INFO] HANA status updated for 1103909
+2026-08-01 18:30:42 [INFO] Processing Invoice DocEntry: 1103911
+2026-08-01 18:30:42 [INFO] API Result for 1103911: Y - 200
+2026-08-01 18:30:42 [INFO] HANA status updated for 1103911
+2026-08-01 18:30:42 [INFO] Processing Invoice DocEntry: 1103912
+2026-08-01 18:30:42 [INFO] API Result for 1103912: Y - 200
+2026-08-01 18:30:42 [INFO] HANA status updated for 1103912
+2026-08-01 18:30:42 [INFO] Processing Invoice DocEntry: 1103913
+2026-08-01 18:30:42 [INFO] API Result for 1103913: Y - 200
+2026-08-01 18:30:42 [INFO] HANA status updated for 1103913
+2026-08-01 18:30:42 [INFO] Processing Invoice DocEntry: 1103914
+2026-08-01 18:30:42 [INFO] API Result for 1103914: Y - 200
+2026-08-01 18:30:42 [INFO] HANA status updated for 1103914
+2026-08-01 18:30:42 [INFO] Processing Invoice DocEntry: 1103916
+2026-08-01 18:30:43 [INFO] API Result for 1103916: Y - 200
+2026-08-01 18:30:43 [INFO] HANA status updated for 1103916
+2026-08-01 18:30:43 [INFO] Processing Invoice DocEntry: 1103917
+2026-08-01 18:30:43 [INFO] API Result for 1103917: Y - 200
+2026-08-01 18:30:43 [INFO] HANA status updated for 1103917
+2026-08-01 18:30:43 [INFO] Processing Invoice DocEntry: 1103919
+2026-08-01 18:30:43 [INFO] API Result for 1103919: Y - 200
+2026-08-01 18:30:43 [INFO] HANA status updated for 1103919
+2026-08-01 18:30:43 [INFO] Processing Invoice DocEntry: 1103920
+2026-08-01 18:30:43 [INFO] API Result for 1103920: Y - 200
+2026-08-01 18:30:43 [INFO] HANA status updated for 1103920
+2026-08-01 18:30:43 [INFO] Processing Invoice DocEntry: 1103923
+2026-08-01 18:30:43 [INFO] API Result for 1103923: Y - 200
+2026-08-01 18:30:43 [INFO] HANA status updated for 1103923
+2026-08-01 18:30:43 [INFO] Processing Invoice DocEntry: 1103925
+2026-08-01 18:30:44 [INFO] API Result for 1103925: Y - 200
+2026-08-01 18:30:44 [INFO] HANA status updated for 1103925
+2026-08-01 18:30:44 [INFO] Processing Invoice DocEntry: 1103926
+2026-08-01 18:30:44 [INFO] API Result for 1103926: Y - 200
+2026-08-01 18:30:44 [INFO] HANA status updated for 1103926
+2026-08-01 18:30:44 [INFO] Processing Invoice DocEntry: 1103927
+2026-08-01 18:30:44 [INFO] API Result for 1103927: Y - 200
+2026-08-01 18:30:44 [INFO] HANA status updated for 1103927
+2026-08-01 18:30:44 [INFO] Processing Invoice DocEntry: 1103943
+2026-08-01 18:30:44 [INFO] API Result for 1103943: Y - 200
+2026-08-01 18:30:44 [INFO] HANA status updated for 1103943
+2026-08-01 18:30:44 [INFO] Processing Invoice DocEntry: 1103951
+2026-08-01 18:30:44 [INFO] API Result for 1103951: Y - 200
+2026-08-01 18:30:44 [INFO] HANA status updated for 1103951
+2026-08-01 18:30:44 [INFO] Processing Invoice DocEntry: 1103956
+2026-08-01 18:30:45 [INFO] API Result for 1103956: Y - 200
+2026-08-01 18:30:45 [INFO] HANA status updated for 1103956
+2026-08-01 18:30:45 [INFO] Processing Invoice DocEntry: 1103960
+2026-08-01 18:30:45 [INFO] API Result for 1103960: Y - 200
+2026-08-01 18:30:45 [INFO] HANA status updated for 1103960
+2026-08-01 18:30:45 [INFO] Processing Invoice DocEntry: 1103961
+2026-08-01 18:30:45 [INFO] API Result for 1103961: Y - 200
+2026-08-01 18:30:45 [INFO] HANA status updated for 1103961
+2026-08-01 18:30:45 [INFO] Processing Invoice DocEntry: 1103959
+2026-08-01 18:30:45 [INFO] API Result for 1103959: Y - 200
+2026-08-01 18:30:45 [INFO] HANA status updated for 1103959
+2026-08-01 18:30:45 [INFO] Processing Invoice DocEntry: 1103962
+2026-08-01 18:30:45 [INFO] API Result for 1103962: Y - 200
+2026-08-01 18:30:45 [INFO] HANA status updated for 1103962
+2026-08-01 18:30:45 [INFO] Processing Invoice DocEntry: 1103963
+2026-08-01 18:30:46 [INFO] API Result for 1103963: Y - 200
+2026-08-01 18:30:46 [INFO] HANA status updated for 1103963
+2026-08-01 18:30:46 [INFO] Processing Invoice DocEntry: 1103964
+2026-08-01 18:30:46 [INFO] API Result for 1103964: Y - 200
+2026-08-01 18:30:46 [INFO] HANA status updated for 1103964
+2026-08-01 18:30:46 [INFO] Processing Invoice DocEntry: 1103965
+2026-08-01 18:30:46 [INFO] API Result for 1103965: Y - 200
+2026-08-01 18:30:46 [INFO] HANA status updated for 1103965
+2026-08-01 18:30:46 [INFO] Processing Invoice DocEntry: 1103966
+2026-08-01 18:30:46 [INFO] API Result for 1103966: Y - 200
+2026-08-01 18:30:46 [INFO] HANA status updated for 1103966
+2026-08-01 18:30:46 [INFO] Processing Invoice DocEntry: 1103967
+2026-08-01 18:30:46 [INFO] API Result for 1103967: Y - 200
+2026-08-01 18:30:46 [INFO] HANA status updated for 1103967
+2026-08-01 18:30:46 [INFO] Processing Invoice DocEntry: 1103968
+2026-08-01 18:30:46 [INFO] API Result for 1103968: Y - 200
+2026-08-01 18:30:46 [INFO] HANA status updated for 1103968
+2026-08-01 18:30:46 [INFO] Processing Invoice DocEntry: 1103969
+2026-08-01 18:30:47 [INFO] API Result for 1103969: Y - 200
+2026-08-01 18:30:47 [INFO] HANA status updated for 1103969
+2026-08-01 18:30:47 [INFO] Processing Invoice DocEntry: 1103970
+2026-08-01 18:30:47 [INFO] API Result for 1103970: Y - 200
+2026-08-01 18:30:47 [INFO] HANA status updated for 1103970
+2026-08-01 18:30:47 [INFO] Processing Invoice DocEntry: 1103971
+2026-08-01 18:30:47 [INFO] API Result for 1103971: Y - 200
+2026-08-01 18:30:47 [INFO] HANA status updated for 1103971
+2026-08-01 18:30:47 [INFO] Processing Invoice DocEntry: 1103972
+2026-08-01 18:30:47 [INFO] API Result for 1103972: Y - 200
+2026-08-01 18:30:47 [INFO] HANA status updated for 1103972
+2026-08-01 18:30:47 [INFO] Processing Invoice DocEntry: 1103569
+2026-08-01 18:30:47 [INFO] API Result for 1103569: Y - 200
+2026-08-01 18:30:47 [INFO] HANA status updated for 1103569
+2026-08-01 18:30:47 [INFO] Processing Invoice DocEntry: 1103573
+2026-08-01 18:30:48 [INFO] API Result for 1103573: Y - 200
+2026-08-01 18:30:48 [INFO] HANA status updated for 1103573
+2026-08-01 18:30:48 [INFO] Processing Invoice DocEntry: 1103579
+2026-08-01 18:30:48 [INFO] API Result for 1103579: Y - 200
+2026-08-01 18:30:48 [INFO] HANA status updated for 1103579
+2026-08-01 18:30:48 [INFO] Processing Invoice DocEntry: 1103583
+2026-08-01 18:30:48 [INFO] API Result for 1103583: Y - 200
+2026-08-01 18:30:48 [INFO] HANA status updated for 1103583
+2026-08-01 18:30:48 [INFO] Processing Invoice DocEntry: 1103586
+2026-08-01 18:30:48 [INFO] API Result for 1103586: Y - 200
+2026-08-01 18:30:48 [INFO] HANA status updated for 1103586
+2026-08-01 18:30:48 [INFO] Processing Invoice DocEntry: 1103595
+2026-08-01 18:30:48 [INFO] API Result for 1103595: Y - 200
+2026-08-01 18:30:48 [INFO] HANA status updated for 1103595
+2026-08-01 18:30:48 [INFO] Processing Invoice DocEntry: 1103602
+2026-08-01 18:30:49 [INFO] API Result for 1103602: Y - 200
+2026-08-01 18:30:49 [INFO] HANA status updated for 1103602
+2026-08-01 18:30:49 [INFO] Processing Invoice DocEntry: 1103610
+2026-08-01 18:30:49 [INFO] API Result for 1103610: N - 
+2026-08-01 18:30:49 [INFO] HANA status updated for 1103610
+2026-08-01 18:30:49 [INFO] Processing Invoice DocEntry: 1103615
+2026-08-01 18:30:49 [INFO] API Result for 1103615: Y - 200
+2026-08-01 18:30:49 [INFO] HANA status updated for 1103615
+2026-08-01 18:30:49 [INFO] Processing Invoice DocEntry: 1103620
+2026-08-01 18:30:49 [INFO] API Result for 1103620: Y - 200
+2026-08-01 18:30:49 [INFO] HANA status updated for 1103620
+2026-08-01 18:30:49 [INFO] Processing Invoice DocEntry: 1103623
+2026-08-01 18:30:49 [INFO] API Result for 1103623: Y - 200
+2026-08-01 18:30:49 [INFO] HANA status updated for 1103623
+2026-08-01 18:30:49 [INFO] Processing Invoice DocEntry: 1103973
+2026-08-01 18:30:50 [INFO] API Result for 1103973: Y - 200
+2026-08-01 18:30:50 [INFO] HANA status updated for 1103973
+2026-08-01 18:30:50 [INFO] Processing Invoice DocEntry: 1103974
+2026-08-01 18:30:50 [INFO] API Result for 1103974: Y - 200
+2026-08-01 18:30:50 [INFO] HANA status updated for 1103974
+2026-08-01 18:30:50 [INFO] Processing Invoice DocEntry: 1103624
+2026-08-01 18:30:50 [INFO] API Result for 1103624: Y - 200
+2026-08-01 18:30:50 [INFO] HANA status updated for 1103624
+2026-08-01 18:30:50 [INFO] Processing Invoice DocEntry: 1103628
+2026-08-01 18:30:50 [INFO] API Result for 1103628: Y - 200
+2026-08-01 18:30:50 [INFO] HANA status updated for 1103628
+2026-08-01 18:30:50 [INFO] Processing Invoice DocEntry: 1103632
+2026-08-01 18:30:50 [INFO] API Result for 1103632: Y - 200
+2026-08-01 18:30:50 [INFO] HANA status updated for 1103632
+2026-08-01 18:30:50 [INFO] Processing Invoice DocEntry: 1103669
+2026-08-01 18:30:51 [INFO] API Result for 1103669: Y - 200
+2026-08-01 18:30:51 [INFO] HANA status updated for 1103669
+2026-08-01 18:30:51 [INFO] Processing Invoice DocEntry: 1103642
+2026-08-01 18:30:51 [INFO] API Result for 1103642: Y - 200
+2026-08-01 18:30:51 [INFO] HANA status updated for 1103642
+2026-08-01 18:30:51 [INFO] Processing Invoice DocEntry: 1103975
+2026-08-01 18:30:51 [INFO] API Result for 1103975: Y - 200
+2026-08-01 18:30:51 [INFO] HANA status updated for 1103975
+2026-08-01 18:30:51 [INFO] Processing Invoice DocEntry: 1103651
+2026-08-01 18:30:51 [INFO] API Result for 1103651: Y - 200
+2026-08-01 18:30:51 [INFO] HANA status updated for 1103651
+2026-08-01 18:30:51 [INFO] Processing Invoice DocEntry: 1103655
+2026-08-01 18:30:51 [INFO] API Result for 1103655: N - 
+2026-08-01 18:30:51 [INFO] HANA status updated for 1103655
+2026-08-01 18:30:51 [INFO] Processing Invoice DocEntry: 1103703
+2026-08-01 18:30:51 [INFO] API Result for 1103703: Y - 200
+2026-08-01 18:30:51 [INFO] HANA status updated for 1103703
+2026-08-01 18:30:51 [INFO] Processing Invoice DocEntry: 1103670
+2026-08-01 18:30:52 [INFO] API Result for 1103670: Y - 200
+2026-08-01 18:30:52 [INFO] HANA status updated for 1103670
+2026-08-01 18:30:52 [INFO] Processing Invoice DocEntry: 1103665
+2026-08-01 18:30:52 [INFO] API Result for 1103665: Y - 200
+2026-08-01 18:30:52 [INFO] HANA status updated for 1103665
+2026-08-01 18:30:52 [INFO] Processing Invoice DocEntry: 1103660
+2026-08-01 18:30:52 [INFO] API Result for 1103660: Y - 200
+2026-08-01 18:30:52 [INFO] HANA status updated for 1103660
+2026-08-01 18:30:52 [INFO] Processing Invoice DocEntry: 1103976
+2026-08-01 18:30:52 [INFO] API Result for 1103976: Y - 200
+2026-08-01 18:30:52 [INFO] HANA status updated for 1103976
+2026-08-01 18:30:52 [INFO] Processing Invoice DocEntry: 1103671
+2026-08-01 18:30:52 [INFO] API Result for 1103671: Y - 200
+2026-08-01 18:30:52 [INFO] HANA status updated for 1103671
+2026-08-01 18:30:52 [INFO] Processing Invoice DocEntry: 1103676
+2026-08-01 18:30:53 [INFO] API Result for 1103676: N - 
+2026-08-01 18:30:53 [INFO] HANA status updated for 1103676
+2026-08-01 18:30:53 [INFO] Processing Invoice DocEntry: 1103678
+2026-08-01 18:30:53 [INFO] API Result for 1103678: Y - 200
+2026-08-01 18:30:53 [INFO] HANA status updated for 1103678
+2026-08-01 18:30:53 [INFO] Processing Invoice DocEntry: 1103977
+2026-08-01 18:30:53 [INFO] API Result for 1103977: Y - 200
+2026-08-01 18:30:53 [INFO] HANA status updated for 1103977
+2026-08-01 18:30:53 [INFO] Processing Invoice DocEntry: 1103638
+2026-08-01 18:30:53 [INFO] API Result for 1103638: Y - 200
+2026-08-01 18:30:53 [INFO] HANA status updated for 1103638
+2026-08-01 18:30:53 [INFO] Processing Invoice DocEntry: 1103995
+2026-08-01 18:30:53 [INFO] API Result for 1103995: Y - 200
+2026-08-01 18:30:53 [INFO] HANA status updated for 1103995
+2026-08-01 18:30:53 [INFO] Processing Invoice DocEntry: 1103997
+2026-08-01 18:30:54 [INFO] API Result for 1103997: Y - 200
+2026-08-01 18:30:54 [INFO] HANA status updated for 1103997
+2026-08-01 18:30:54 [INFO] Processing Invoice DocEntry: 1103720
+2026-08-01 18:30:54 [INFO] API Result for 1103720: Y - 200
+2026-08-01 18:30:54 [INFO] HANA status updated for 1103720
+2026-08-01 18:30:54 [INFO] Processing Invoice DocEntry: 1104001
+2026-08-01 18:30:54 [INFO] API Result for 1104001: Y - 200
+2026-08-01 18:30:54 [INFO] HANA status updated for 1104001
+2026-08-01 18:30:54 [INFO] Processing Invoice DocEntry: 1104003
+2026-08-01 18:30:54 [INFO] API Result for 1104003: N - 
+2026-08-01 18:30:54 [INFO] HANA status updated for 1104003
+2026-08-01 18:30:54 [INFO] Processing Invoice DocEntry: 1104002
+2026-08-01 18:30:54 [INFO] API Result for 1104002: Y - 200
+2026-08-01 18:30:54 [INFO] HANA status updated for 1104002
+2026-08-01 18:30:54 [INFO] Processing Invoice DocEntry: 1104004
+2026-08-01 18:30:55 [INFO] API Result for 1104004: Y - 200
+2026-08-01 18:30:55 [INFO] HANA status updated for 1104004
+2026-08-01 18:30:55 [INFO] Processing Invoice DocEntry: 1104005
+2026-08-01 18:30:55 [INFO] API Result for 1104005: Y - 200
+2026-08-01 18:30:55 [INFO] HANA status updated for 1104005
+2026-08-01 18:30:55 [INFO] Processing Invoice DocEntry: 1104007
+2026-08-01 18:30:55 [INFO] API Result for 1104007: Y - 200
+2026-08-01 18:30:55 [INFO] HANA status updated for 1104007
+2026-08-01 18:30:55 [INFO] Processing Invoice DocEntry: 1104008
+2026-08-01 18:30:55 [INFO] API Result for 1104008: Y - 200
+2026-08-01 18:30:55 [INFO] HANA status updated for 1104008
+2026-08-01 18:30:55 [INFO] Processing Invoice DocEntry: 1104009
+2026-08-01 18:30:55 [INFO] API Result for 1104009: Y - 200
+2026-08-01 18:30:55 [INFO] HANA status updated for 1104009
+2026-08-01 18:30:55 [INFO] Processing Invoice DocEntry: 1104010
+2026-08-01 18:30:56 [INFO] API Result for 1104010: Y - 200
+2026-08-01 18:30:56 [INFO] HANA status updated for 1104010
+2026-08-01 18:30:56 [INFO] Processing Invoice DocEntry: 1104012
+2026-08-01 18:30:56 [INFO] API Result for 1104012: Y - 200
+2026-08-01 18:30:56 [INFO] HANA status updated for 1104012
+2026-08-01 18:30:56 [INFO] Processing Invoice DocEntry: 1104013
+2026-08-01 18:30:56 [INFO] API Result for 1104013: Y - 200
+2026-08-01 18:30:56 [INFO] HANA status updated for 1104013
+2026-08-01 18:30:56 [INFO] Processing Invoice DocEntry: 1103794
+2026-08-01 18:30:56 [INFO] API Result for 1103794: N - 
+2026-08-01 18:30:56 [INFO] HANA status updated for 1103794
+2026-08-01 18:30:56 [INFO] Processing Invoice DocEntry: 1104014
+2026-08-01 18:30:56 [INFO] API Result for 1104014: Y - 200
+2026-08-01 18:30:56 [INFO] HANA status updated for 1104014
+2026-08-01 18:30:56 [INFO] Processing Invoice DocEntry: 1104015
+2026-08-01 18:30:57 [INFO] API Result for 1104015: Y - 200
+2026-08-01 18:30:57 [INFO] HANA status updated for 1104015
+2026-08-01 18:30:57 [INFO] Processing Invoice DocEntry: 1104018
+2026-08-01 18:30:57 [INFO] API Result for 1104018: Y - 200
+2026-08-01 18:30:57 [INFO] HANA status updated for 1104018
+2026-08-01 18:30:57 [INFO] Processing Invoice DocEntry: 1104029
+2026-08-01 18:30:57 [INFO] API Result for 1104029: Y - 200
+2026-08-01 18:30:57 [INFO] HANA status updated for 1104029
+2026-08-01 18:30:57 [INFO] Processing Invoice DocEntry: 1104105
+2026-08-01 18:30:57 [INFO] API Result for 1104105: Y - 200
+2026-08-01 18:30:57 [INFO] HANA status updated for 1104105
+2026-08-01 18:30:57 [INFO] Processing Invoice DocEntry: 1104106
+2026-08-01 18:30:57 [INFO] API Result for 1104106: Y - 200
+2026-08-01 18:30:57 [INFO] HANA status updated for 1104106
+2026-08-01 18:30:57 [INFO] Processing Invoice DocEntry: 1104107
+2026-08-01 18:30:58 [INFO] API Result for 1104107: Y - 200
+2026-08-01 18:30:58 [INFO] HANA status updated for 1104107
+2026-08-01 18:30:58 [INFO] Processing Invoice DocEntry: 1104110
+2026-08-01 18:30:58 [INFO] API Result for 1104110: Y - 200
+2026-08-01 18:30:58 [INFO] HANA status updated for 1104110
+2026-08-01 18:30:58 [INFO] Processing Invoice DocEntry: 1104112
+2026-08-01 18:30:58 [INFO] API Result for 1104112: Y - 200
+2026-08-01 18:30:58 [INFO] HANA status updated for 1104112
+2026-08-01 18:30:58 [INFO] Processing Invoice DocEntry: 1104111
+2026-08-01 18:30:58 [INFO] API Result for 1104111: Y - 200
+2026-08-01 18:30:58 [INFO] HANA status updated for 1104111
+2026-08-01 18:30:58 [INFO] Processing Invoice DocEntry: 1104113
+2026-08-01 18:30:58 [INFO] API Result for 1104113: Y - 200
+2026-08-01 18:30:58 [INFO] HANA status updated for 1104113
+2026-08-01 18:30:58 [INFO] Processing Invoice DocEntry: 1104115
+2026-08-01 18:30:59 [INFO] API Result for 1104115: Y - 200
+2026-08-01 18:30:59 [INFO] HANA status updated for 1104115
+2026-08-01 18:30:59 [INFO] Processing Invoice DocEntry: 1104116
+2026-08-01 18:30:59 [INFO] API Result for 1104116: Y - 200
+2026-08-01 18:30:59 [INFO] HANA status updated for 1104116
+2026-08-01 18:30:59 [INFO] Processing Invoice DocEntry: 1104119
+2026-08-01 18:30:59 [INFO] API Result for 1104119: Y - 200
+2026-08-01 18:30:59 [INFO] HANA status updated for 1104119
+2026-08-01 18:30:59 [INFO] Processing Invoice DocEntry: 1104118
+2026-08-01 18:30:59 [INFO] API Result for 1104118: Y - 200
+2026-08-01 18:30:59 [INFO] HANA status updated for 1104118
+2026-08-01 18:30:59 [INFO] Processing Invoice DocEntry: 1103868
+2026-08-01 18:30:59 [INFO] API Result for 1103868: Y - 200
+2026-08-01 18:31:00 [INFO] HANA status updated for 1103868
+2026-08-01 18:31:00 [INFO] Processing Invoice DocEntry: 1104123
+2026-08-01 18:31:00 [INFO] API Result for 1104123: Y - 200
+2026-08-01 18:31:00 [INFO] HANA status updated for 1104123
+2026-08-01 18:31:00 [INFO] Processing Invoice DocEntry: 1104122
+2026-08-01 18:31:00 [INFO] API Result for 1104122: Y - 200
+2026-08-01 18:31:00 [INFO] HANA status updated for 1104122
+2026-08-01 18:31:00 [INFO] Processing Invoice DocEntry: 1104125
+2026-08-01 18:31:00 [INFO] API Result for 1104125: Y - 200
+2026-08-01 18:31:00 [INFO] HANA status updated for 1104125
+2026-08-01 18:31:00 [INFO] Processing Invoice DocEntry: 1104126
+2026-08-01 18:31:00 [INFO] API Result for 1104126: Y - 200
+2026-08-01 18:31:00 [INFO] HANA status updated for 1104126
+2026-08-01 18:31:00 [INFO] Processing Invoice DocEntry: 1104128
+2026-08-01 18:31:01 [INFO] API Result for 1104128: Y - 200
+2026-08-01 18:31:01 [INFO] HANA status updated for 1104128
+2026-08-01 18:31:01 [INFO] Processing Invoice DocEntry: 1104129
+2026-08-01 18:31:01 [INFO] API Result for 1104129: Y - 200
+2026-08-01 18:31:01 [INFO] HANA status updated for 1104129
+2026-08-01 18:31:01 [INFO] Processing Invoice DocEntry: 1104130
+2026-08-01 18:31:01 [INFO] API Result for 1104130: Y - 200
+2026-08-01 18:31:01 [INFO] HANA status updated for 1104130
+2026-08-01 18:31:01 [INFO] Processing Invoice DocEntry: 1104131
+2026-08-01 18:31:01 [INFO] API Result for 1104131: Y - 200
+2026-08-01 18:31:01 [INFO] HANA status updated for 1104131
+2026-08-01 18:31:01 [INFO] Processing Invoice DocEntry: 1104132
+2026-08-01 18:31:01 [INFO] API Result for 1104132: Y - 200
+2026-08-01 18:31:01 [INFO] HANA status updated for 1104132
+2026-08-01 18:31:01 [INFO] Processing Invoice DocEntry: 1104133
+2026-08-01 18:31:02 [INFO] API Result for 1104133: Y - 200
+2026-08-01 18:31:02 [INFO] HANA status updated for 1104133
+2026-08-01 18:31:02 [INFO] Processing Invoice DocEntry: 1104134
+2026-08-01 18:31:02 [INFO] API Result for 1104134: Y - 200
+2026-08-01 18:31:02 [INFO] HANA status updated for 1104134
+2026-08-01 18:31:02 [INFO] Processing Invoice DocEntry: 1104135
+2026-08-01 18:31:02 [INFO] API Result for 1104135: Y - 200
+2026-08-01 18:31:02 [INFO] HANA status updated for 1104135
+2026-08-01 18:31:02 [INFO] Processing Invoice DocEntry: 1104136
+2026-08-01 18:31:02 [INFO] API Result for 1104136: Y - 200
+2026-08-01 18:31:02 [INFO] HANA status updated for 1104136
+2026-08-01 18:31:02 [INFO] Processing Invoice DocEntry: 1104137
+2026-08-01 18:31:02 [INFO] API Result for 1104137: Y - 200
+2026-08-01 18:31:02 [INFO] HANA status updated for 1104137
+2026-08-01 18:31:02 [INFO] Processing Invoice DocEntry: 1104138
+2026-08-01 18:31:03 [INFO] API Result for 1104138: Y - 200
+2026-08-01 18:31:03 [INFO] HANA status updated for 1104138
+2026-08-01 18:31:03 [INFO] Processing Invoice DocEntry: 1104139
+2026-08-01 18:31:03 [INFO] API Result for 1104139: Y - 200
+2026-08-01 18:31:03 [INFO] HANA status updated for 1104139
+2026-08-01 18:31:03 [INFO] Processing Invoice DocEntry: 1104140
+2026-08-01 18:31:03 [INFO] API Result for 1104140: Y - 200
+2026-08-01 18:31:03 [INFO] HANA status updated for 1104140
+2026-08-01 18:31:03 [INFO] Processing Invoice DocEntry: 1104141
+2026-08-01 18:31:03 [INFO] API Result for 1104141: Y - 200
+2026-08-01 18:31:03 [INFO] HANA status updated for 1104141
+2026-08-01 18:31:03 [INFO] Processing Invoice DocEntry: 1104142
+2026-08-01 18:31:03 [INFO] API Result for 1104142: Y - 200
+2026-08-01 18:31:03 [INFO] HANA status updated for 1104142
+2026-08-01 18:31:03 [INFO] Processing Invoice DocEntry: 1104143
+2026-08-01 18:31:04 [INFO] API Result for 1104143: Y - 200
+2026-08-01 18:31:04 [INFO] HANA status updated for 1104143
+2026-08-01 18:31:04 [INFO] Processing Invoice DocEntry: 1104144
+2026-08-01 18:31:04 [INFO] API Result for 1104144: Y - 200
+2026-08-01 18:31:04 [INFO] HANA status updated for 1104144
+2026-08-01 18:31:04 [INFO] Processing Invoice DocEntry: 1104145
+2026-08-01 18:31:04 [INFO] API Result for 1104145: Y - 200
+2026-08-01 18:31:04 [INFO] HANA status updated for 1104145
+2026-08-01 18:31:04 [INFO] Processing Invoice DocEntry: 1104146
+2026-08-01 18:31:04 [INFO] API Result for 1104146: Y - 200
+2026-08-01 18:31:04 [INFO] HANA status updated for 1104146
+2026-08-01 18:31:04 [INFO] Processing Invoice DocEntry: 1104147
+2026-08-01 18:31:05 [INFO] API Result for 1104147: Y - 200
+2026-08-01 18:31:05 [INFO] HANA status updated for 1104147
+2026-08-01 18:31:05 [INFO] Processing Invoice DocEntry: 1104148
+2026-08-01 18:31:05 [INFO] API Result for 1104148: Y - 200
+2026-08-01 18:31:05 [INFO] HANA status updated for 1104148
+2026-08-01 18:31:05 [INFO] Processing Invoice DocEntry: 1104149
+2026-08-01 18:31:05 [INFO] API Result for 1104149: N - 
+2026-08-01 18:31:05 [INFO] HANA status updated for 1104149
+2026-08-01 18:31:05 [INFO] Processing Invoice DocEntry: 1103996
+2026-08-01 18:31:05 [INFO] API Result for 1103996: Y - 200
+2026-08-01 18:31:05 [INFO] HANA status updated for 1103996
+2026-08-01 18:31:05 [INFO] Processing Invoice DocEntry: 1104000
+2026-08-01 18:31:05 [INFO] API Result for 1104000: Y - 200
+2026-08-01 18:31:05 [INFO] HANA status updated for 1104000
+2026-08-01 18:31:05 [INFO] Processing Invoice DocEntry: 1104006
+2026-08-01 18:31:06 [INFO] API Result for 1104006: Y - 200
+2026-08-01 18:31:06 [INFO] HANA status updated for 1104006
+2026-08-01 18:31:06 [INFO] Processing Invoice DocEntry: 1104017
+2026-08-01 18:31:06 [INFO] API Result for 1104017: Y - 200
+2026-08-01 18:31:06 [INFO] HANA status updated for 1104017
+2026-08-01 18:31:06 [INFO] Processing Invoice DocEntry: 1104150
+2026-08-01 18:31:06 [INFO] API Result for 1104150: Y - 200
+2026-08-01 18:31:06 [INFO] HANA status updated for 1104150
+2026-08-01 18:31:06 [INFO] Processing Invoice DocEntry: 1104151
+2026-08-01 18:31:06 [INFO] API Result for 1104151: Y - 200
+2026-08-01 18:31:06 [INFO] HANA status updated for 1104151
+2026-08-01 18:31:06 [INFO] Processing Invoice DocEntry: 1104152
+2026-08-01 18:31:06 [INFO] API Result for 1104152: Y - 200
+2026-08-01 18:31:06 [INFO] HANA status updated for 1104152
+2026-08-01 18:31:06 [INFO] Processing Invoice DocEntry: 1104153
+2026-08-01 18:31:06 [INFO] API Result for 1104153: Y - 200
+2026-08-01 18:31:06 [INFO] HANA status updated for 1104153
+2026-08-01 18:31:06 [INFO] Processing Invoice DocEntry: 1104154
+2026-08-01 18:31:07 [INFO] API Result for 1104154: Y - 200
+2026-08-01 18:31:07 [INFO] HANA status updated for 1104154
+2026-08-01 18:31:07 [INFO] Processing Invoice DocEntry: 1104155
+2026-08-01 18:31:07 [INFO] API Result for 1104155: Y - 200
+2026-08-01 18:31:07 [INFO] HANA status updated for 1104155
+2026-08-01 18:31:07 [INFO] Processing Invoice DocEntry: 1104156
+2026-08-01 18:31:07 [INFO] API Result for 1104156: Y - 200
+2026-08-01 18:31:07 [INFO] HANA status updated for 1104156
+2026-08-01 18:31:07 [INFO] Processing Invoice DocEntry: 1104157
+2026-08-01 18:31:07 [INFO] API Result for 1104157: Y - 200
+2026-08-01 18:31:07 [INFO] HANA status updated for 1104157
+2026-08-01 18:31:07 [INFO] Processing Invoice DocEntry: 1104159
+2026-08-01 18:31:07 [INFO] API Result for 1104159: Y - 200
+2026-08-01 18:31:07 [INFO] HANA status updated for 1104159
+2026-08-01 18:31:07 [INFO] Processing Invoice DocEntry: 1104161
+2026-08-01 18:31:08 [INFO] API Result for 1104161: Y - 200
+2026-08-01 18:31:08 [INFO] HANA status updated for 1104161
+2026-08-01 18:31:08 [INFO] Processing Invoice DocEntry: 1104168
+2026-08-01 18:31:08 [INFO] API Result for 1104168: Y - 200
+2026-08-01 18:31:08 [INFO] HANA status updated for 1104168
+2026-08-01 18:31:08 [INFO] Processing Invoice DocEntry: 1104170
+2026-08-01 18:31:08 [INFO] API Result for 1104170: Y - 200
+2026-08-01 18:31:08 [INFO] HANA status updated for 1104170
+2026-08-01 18:31:08 [INFO] Processing Invoice DocEntry: 1104172
+2026-08-01 18:31:08 [INFO] API Result for 1104172: Y - 200
+2026-08-01 18:31:08 [INFO] HANA status updated for 1104172
+2026-08-01 18:31:08 [INFO] Processing Invoice DocEntry: 1104176
+2026-08-01 18:31:08 [INFO] API Result for 1104176: Y - 200
+2026-08-01 18:31:08 [INFO] HANA status updated for 1104176
+2026-08-01 18:31:08 [INFO] Processing Invoice DocEntry: 1104177
+2026-08-01 18:31:08 [INFO] API Result for 1104177: Y - 200
+2026-08-01 18:31:08 [INFO] HANA status updated for 1104177
+2026-08-01 18:31:08 [INFO] Processing Invoice DocEntry: 1104179
+2026-08-01 18:31:09 [INFO] API Result for 1104179: Y - 200
+2026-08-01 18:31:09 [INFO] HANA status updated for 1104179
+2026-08-01 18:31:09 [INFO] Processing Invoice DocEntry: 1104180
+2026-08-01 18:31:09 [INFO] API Result for 1104180: Y - 200
+2026-08-01 18:31:09 [INFO] HANA status updated for 1104180
+2026-08-01 18:31:09 [INFO] Processing Invoice DocEntry: 1104181
+2026-08-01 18:31:09 [INFO] API Result for 1104181: N - 
+2026-08-01 18:31:09 [INFO] HANA status updated for 1104181
+2026-08-01 18:31:09 [INFO] Processing Invoice DocEntry: 1104182
+2026-08-01 18:31:09 [INFO] API Result for 1104182: Y - 200
+2026-08-01 18:31:09 [INFO] HANA status updated for 1104182
+2026-08-01 18:31:09 [INFO] Processing Invoice DocEntry: 1104158
+2026-08-01 18:31:09 [INFO] API Result for 1104158: Y - 200
+2026-08-01 18:31:09 [INFO] HANA status updated for 1104158
+2026-08-01 18:31:09 [INFO] Processing Invoice DocEntry: 1104160
+2026-08-01 18:31:10 [INFO] API Result for 1104160: Y - 200
+2026-08-01 18:31:10 [INFO] HANA status updated for 1104160
+2026-08-01 18:31:10 [INFO] Processing Invoice DocEntry: 1104162
+2026-08-01 18:31:10 [INFO] API Result for 1104162: Y - 200
+2026-08-01 18:31:10 [INFO] HANA status updated for 1104162
+2026-08-01 18:31:10 [INFO] Processing Invoice DocEntry: 1104183
+2026-08-01 18:31:10 [INFO] API Result for 1104183: Y - 200
+2026-08-01 18:31:10 [INFO] HANA status updated for 1104183
+2026-08-01 18:31:10 [INFO] Processing Invoice DocEntry: 1104163
+2026-08-01 18:31:10 [INFO] API Result for 1104163: Y - 200
+2026-08-01 18:31:10 [INFO] HANA status updated for 1104163
+2026-08-01 18:31:10 [INFO] Processing Invoice DocEntry: 1104164
+2026-08-01 18:31:10 [INFO] API Result for 1104164: Y - 200
+2026-08-01 18:31:10 [INFO] HANA status updated for 1104164
+2026-08-01 18:31:10 [INFO] Processing Invoice DocEntry: 1104165
+2026-08-01 18:31:10 [INFO] API Result for 1104165: Y - 200
+2026-08-01 18:31:10 [INFO] HANA status updated for 1104165
+2026-08-01 18:31:10 [INFO] Processing Invoice DocEntry: 1104166
+2026-08-01 18:31:11 [INFO] API Result for 1104166: Y - 200
+2026-08-01 18:31:11 [INFO] HANA status updated for 1104166
+2026-08-01 18:31:11 [INFO] Processing Invoice DocEntry: 1104167
+2026-08-01 18:31:11 [INFO] API Result for 1104167: Y - 200
+2026-08-01 18:31:11 [INFO] HANA status updated for 1104167
+2026-08-01 18:31:11 [INFO] Processing Invoice DocEntry: 1104169
+2026-08-01 18:31:11 [INFO] API Result for 1104169: Y - 200
+2026-08-01 18:31:11 [INFO] HANA status updated for 1104169
+2026-08-01 18:31:11 [INFO] Processing Invoice DocEntry: 1104171
+2026-08-01 18:31:11 [INFO] API Result for 1104171: Y - 200
+2026-08-01 18:31:11 [INFO] HANA status updated for 1104171
+2026-08-01 18:31:11 [INFO] Processing Invoice DocEntry: 1104173
+2026-08-01 18:31:11 [INFO] API Result for 1104173: Y - 200
+2026-08-01 18:31:11 [INFO] HANA status updated for 1104173
+2026-08-01 18:31:11 [INFO] Processing Invoice DocEntry: 1104174
+2026-08-01 18:31:12 [INFO] API Result for 1104174: Y - 200
+2026-08-01 18:31:12 [INFO] HANA status updated for 1104174
+2026-08-01 18:31:12 [INFO] Processing Invoice DocEntry: 1104175
+2026-08-01 18:31:12 [INFO] API Result for 1104175: Y - 200
+2026-08-01 18:31:12 [INFO] HANA status updated for 1104175
+2026-08-01 18:31:12 [INFO] Processing Invoice DocEntry: 1103833
+2026-08-01 18:31:12 [INFO] API Result for 1103833: Y - 200
+2026-08-01 18:31:12 [INFO] HANA status updated for 1103833
+2026-08-01 18:31:12 [INFO] Processing Invoice DocEntry: 1104185
+2026-08-01 18:31:12 [INFO] API Result for 1104185: Y - 200
+2026-08-01 18:31:12 [INFO] HANA status updated for 1104185
+2026-08-01 18:31:12 [INFO] Processing Invoice DocEntry: 1103841
+2026-08-01 18:31:12 [INFO] API Result for 1103841: Y - 200
+2026-08-01 18:31:12 [INFO] HANA status updated for 1103841
+2026-08-01 18:31:12 [INFO] Processing Invoice DocEntry: 1104186
+2026-08-01 18:31:12 [INFO] API Result for 1104186: Y - 200
+2026-08-01 18:31:12 [INFO] HANA status updated for 1104186
+2026-08-01 18:31:12 [INFO] Processing Invoice DocEntry: 1103852
+2026-08-01 18:31:13 [INFO] API Result for 1103852: Y - 200
+2026-08-01 18:31:13 [INFO] HANA status updated for 1103852
+2026-08-01 18:31:13 [INFO] Processing Invoice DocEntry: 1103853
+2026-08-01 18:31:13 [INFO] API Result for 1103853: Y - 200
+2026-08-01 18:31:13 [INFO] HANA status updated for 1103853
+2026-08-01 18:31:13 [INFO] Processing Invoice DocEntry: 1103854
+2026-08-01 18:31:13 [INFO] API Result for 1103854: Y - 200
+2026-08-01 18:31:13 [INFO] HANA status updated for 1103854
+2026-08-01 18:31:13 [INFO] Processing Invoice DocEntry: 1103855
+2026-08-01 18:31:13 [INFO] API Result for 1103855: Y - 200
+2026-08-01 18:31:13 [INFO] HANA status updated for 1103855
+2026-08-01 18:31:13 [INFO] Processing Invoice DocEntry: 1103856
+2026-08-01 18:31:13 [INFO] API Result for 1103856: Y - 200
+2026-08-01 18:31:13 [INFO] HANA status updated for 1103856
+2026-08-01 18:31:13 [INFO] Processing Invoice DocEntry: 1103857
+2026-08-01 18:31:14 [INFO] API Result for 1103857: Y - 200
+2026-08-01 18:31:14 [INFO] HANA status updated for 1103857
+2026-08-01 18:31:14 [INFO] Processing Invoice DocEntry: 1103858
+2026-08-01 18:31:14 [INFO] API Result for 1103858: Y - 200
+2026-08-01 18:31:14 [INFO] HANA status updated for 1103858
+2026-08-01 18:31:14 [INFO] Processing Invoice DocEntry: 1103859
+2026-08-01 18:31:14 [INFO] API Result for 1103859: Y - 200
+2026-08-01 18:31:14 [INFO] HANA status updated for 1103859
+2026-08-01 18:31:14 [INFO] Processing Invoice DocEntry: 1103860
+2026-08-01 18:31:14 [INFO] API Result for 1103860: Y - 200
+2026-08-01 18:31:14 [INFO] HANA status updated for 1103860
+2026-08-01 18:31:14 [INFO] Processing Invoice DocEntry: 1103861
+2026-08-01 18:31:14 [INFO] API Result for 1103861: Y - 200
+2026-08-01 18:31:14 [INFO] HANA status updated for 1103861
+2026-08-01 18:31:14 [INFO] Processing Invoice DocEntry: 1103863
+2026-08-01 18:31:15 [INFO] API Result for 1103863: Y - 200
+2026-08-01 18:31:15 [INFO] HANA status updated for 1103863
+2026-08-01 18:31:15 [INFO] Processing Invoice DocEntry: 1103864
+2026-08-01 18:31:15 [INFO] API Result for 1103864: Y - 200
+2026-08-01 18:31:15 [INFO] HANA status updated for 1103864
+2026-08-01 18:31:15 [INFO] Processing Invoice DocEntry: 1103865
+2026-08-01 18:31:15 [INFO] API Result for 1103865: Y - 200
+2026-08-01 18:31:15 [INFO] HANA status updated for 1103865
+2026-08-01 18:31:15 [INFO] Processing Invoice DocEntry: 1103866
+2026-08-01 18:31:15 [INFO] API Result for 1103866: Y - 200
+2026-08-01 18:31:15 [INFO] HANA status updated for 1103866
+2026-08-01 18:31:15 [INFO] Processing Invoice DocEntry: 1103867
+2026-08-01 18:31:15 [INFO] API Result for 1103867: Y - 200
+2026-08-01 18:31:15 [INFO] HANA status updated for 1103867
+2026-08-01 18:31:15 [INFO] Processing Invoice DocEntry: 1103869
+2026-08-01 18:31:16 [INFO] API Result for 1103869: Y - 200
+2026-08-01 18:31:16 [INFO] HANA status updated for 1103869
+2026-08-01 18:31:16 [INFO] Processing Invoice DocEntry: 1103870
+2026-08-01 18:31:16 [INFO] API Result for 1103870: Y - 200
+2026-08-01 18:31:16 [INFO] HANA status updated for 1103870
+2026-08-01 18:31:16 [INFO] Processing Invoice DocEntry: 1103871
+2026-08-01 18:31:16 [INFO] API Result for 1103871: N - 
+2026-08-01 18:31:16 [INFO] HANA status updated for 1103871
+2026-08-01 18:31:16 [INFO] Processing Invoice DocEntry: 1103872
+2026-08-01 18:31:16 [INFO] API Result for 1103872: Y - 200
+2026-08-01 18:31:16 [INFO] HANA status updated for 1103872
+2026-08-01 18:31:16 [INFO] Processing Invoice DocEntry: 1103873
+2026-08-01 18:31:16 [INFO] API Result for 1103873: Y - 200
+2026-08-01 18:31:16 [INFO] HANA status updated for 1103873
+2026-08-01 18:31:16 [INFO] Processing Invoice DocEntry: 1103874
+2026-08-01 18:31:16 [INFO] API Result for 1103874: Y - 200
+2026-08-01 18:31:16 [INFO] HANA status updated for 1103874
+2026-08-01 18:31:16 [INFO] Processing Invoice DocEntry: 1103875
+2026-08-01 18:31:17 [INFO] API Result for 1103875: Y - 200
+2026-08-01 18:31:17 [INFO] HANA status updated for 1103875
+2026-08-01 18:31:17 [INFO] Processing Invoice DocEntry: 1104187
+2026-08-01 18:31:17 [INFO] API Result for 1104187: Y - 200
+2026-08-01 18:31:17 [INFO] HANA status updated for 1104187
+2026-08-01 18:31:17 [INFO] Processing Invoice DocEntry: 1103876
+2026-08-01 18:31:17 [INFO] API Result for 1103876: Y - 200
+2026-08-01 18:31:17 [INFO] HANA status updated for 1103876
+2026-08-01 18:31:17 [INFO] Processing Invoice DocEntry: 1103878
+2026-08-01 18:31:17 [INFO] API Result for 1103878: Y - 200
+2026-08-01 18:31:17 [INFO] HANA status updated for 1103878
+2026-08-01 18:31:17 [INFO] Processing Invoice DocEntry: 1103880
+2026-08-01 18:31:17 [INFO] API Result for 1103880: Y - 200
+2026-08-01 18:31:17 [INFO] HANA status updated for 1103880
+2026-08-01 18:31:17 [INFO] Processing Invoice DocEntry: 1103881
+2026-08-01 18:31:18 [INFO] API Result for 1103881: Y - 200
+2026-08-01 18:31:18 [INFO] HANA status updated for 1103881
+2026-08-01 18:31:18 [INFO] Processing Invoice DocEntry: 1103883
+2026-08-01 18:31:18 [INFO] API Result for 1103883: Y - 200
+2026-08-01 18:31:18 [INFO] HANA status updated for 1103883
+2026-08-01 18:31:18 [INFO] Processing Invoice DocEntry: 1103884
+2026-08-01 18:31:18 [INFO] API Result for 1103884: Y - 200
+2026-08-01 18:31:18 [INFO] HANA status updated for 1103884
+2026-08-01 18:31:18 [INFO] Processing Invoice DocEntry: 1104189
+2026-08-01 18:31:18 [INFO] API Result for 1104189: Y - 200
+2026-08-01 18:31:18 [INFO] HANA status updated for 1104189
+2026-08-01 18:31:18 [INFO] Processing Invoice DocEntry: 1103885
+2026-08-01 18:31:18 [INFO] API Result for 1103885: Y - 200
+2026-08-01 18:31:18 [INFO] HANA status updated for 1103885
+2026-08-01 18:31:18 [INFO] Processing Invoice DocEntry: 1103886
+2026-08-01 18:31:19 [INFO] API Result for 1103886: Y - 200
+2026-08-01 18:31:19 [INFO] HANA status updated for 1103886
+2026-08-01 18:31:19 [INFO] Processing Invoice DocEntry: 1103887
+2026-08-01 18:31:19 [INFO] API Result for 1103887: Y - 200
+2026-08-01 18:31:19 [INFO] HANA status updated for 1103887
+2026-08-01 18:31:19 [INFO] Processing Invoice DocEntry: 1103888
+2026-08-01 18:31:19 [INFO] API Result for 1103888: Y - 200
+2026-08-01 18:31:19 [INFO] HANA status updated for 1103888
+2026-08-01 18:31:19 [INFO] Processing Invoice DocEntry: 1103889
+2026-08-01 18:31:19 [INFO] API Result for 1103889: Y - 200
+2026-08-01 18:31:19 [INFO] HANA status updated for 1103889
+2026-08-01 18:31:19 [INFO] Processing Invoice DocEntry: 1103890
+2026-08-01 18:31:19 [INFO] API Result for 1103890: Y - 200
+2026-08-01 18:31:19 [INFO] HANA status updated for 1103890
+2026-08-01 18:31:19 [INFO] Processing Invoice DocEntry: 1103891
+2026-08-01 18:31:20 [INFO] API Result for 1103891: Y - 200
+2026-08-01 18:31:20 [INFO] HANA status updated for 1103891
+2026-08-01 18:31:20 [INFO] Processing Invoice DocEntry: 1103892
+2026-08-01 18:31:20 [INFO] API Result for 1103892: Y - 200
+2026-08-01 18:31:20 [INFO] HANA status updated for 1103892
+2026-08-01 18:31:20 [INFO] Processing Invoice DocEntry: 1103894
+2026-08-01 18:31:20 [INFO] API Result for 1103894: Y - 200
+2026-08-01 18:31:20 [INFO] HANA status updated for 1103894
+2026-08-01 18:31:20 [INFO] Processing Invoice DocEntry: 1103897
+2026-08-01 18:31:20 [INFO] API Result for 1103897: Y - 200
+2026-08-01 18:31:20 [INFO] HANA status updated for 1103897
+2026-08-01 18:31:20 [INFO] Processing Invoice DocEntry: 1104190
+2026-08-01 18:31:20 [INFO] API Result for 1104190: Y - 200
+2026-08-01 18:31:20 [INFO] HANA status updated for 1104190
+2026-08-01 18:31:20 [INFO] Processing Invoice DocEntry: 1103915
+2026-08-01 18:31:20 [INFO] API Result for 1103915: Y - 200
+2026-08-01 18:31:20 [INFO] HANA status updated for 1103915
+2026-08-01 18:31:20 [INFO] Processing Invoice DocEntry: 1103918
+2026-08-01 18:31:21 [INFO] API Result for 1103918: Y - 200
+2026-08-01 18:31:21 [INFO] HANA status updated for 1103918
+2026-08-01 18:31:21 [INFO] Processing Invoice DocEntry: 1103921
+2026-08-01 18:31:21 [INFO] API Result for 1103921: Y - 200
+2026-08-01 18:31:21 [INFO] HANA status updated for 1103921
+2026-08-01 18:31:21 [INFO] Processing Invoice DocEntry: 1103922
+2026-08-01 18:31:21 [INFO] API Result for 1103922: Y - 200
+2026-08-01 18:31:21 [INFO] HANA status updated for 1103922
+2026-08-01 18:31:21 [INFO] Processing Invoice DocEntry: 1103924
+2026-08-01 18:31:21 [INFO] API Result for 1103924: Y - 200
+2026-08-01 18:31:21 [INFO] HANA status updated for 1103924
+2026-08-01 18:31:21 [INFO] Processing Invoice DocEntry: 1103929
+2026-08-01 18:31:21 [INFO] API Result for 1103929: Y - 200
+2026-08-01 18:31:21 [INFO] HANA status updated for 1103929
+2026-08-01 18:31:21 [INFO] Processing Invoice DocEntry: 1103930
+2026-08-01 18:31:22 [INFO] API Result for 1103930: Y - 200
+2026-08-01 18:31:22 [INFO] HANA status updated for 1103930
+2026-08-01 18:31:22 [INFO] Processing Invoice DocEntry: 1103931
+2026-08-01 18:31:22 [INFO] API Result for 1103931: Y - 200
+2026-08-01 18:31:22 [INFO] HANA status updated for 1103931
+2026-08-01 18:31:22 [INFO] Processing Invoice DocEntry: 1103932
+2026-08-01 18:31:22 [INFO] API Result for 1103932: Y - 200
+2026-08-01 18:31:22 [INFO] HANA status updated for 1103932
+2026-08-01 18:31:22 [INFO] Processing Invoice DocEntry: 1103933
+2026-08-01 18:31:22 [INFO] API Result for 1103933: Y - 200
+2026-08-01 18:31:22 [INFO] HANA status updated for 1103933
+2026-08-01 18:31:22 [INFO] Processing Invoice DocEntry: 1103934
+2026-08-01 18:31:22 [INFO] API Result for 1103934: Y - 200
+2026-08-01 18:31:22 [INFO] HANA status updated for 1103934
+2026-08-01 18:31:22 [INFO] Processing Invoice DocEntry: 1103935
+2026-08-01 18:31:22 [INFO] API Result for 1103935: Y - 200
+2026-08-01 18:31:22 [INFO] HANA status updated for 1103935
+2026-08-01 18:31:22 [INFO] Processing Invoice DocEntry: 1103936
+2026-08-01 18:31:23 [INFO] API Result for 1103936: N - 
+2026-08-01 18:31:23 [INFO] HANA status updated for 1103936
+2026-08-01 18:31:23 [INFO] Processing Invoice DocEntry: 1103937
+2026-08-01 18:31:23 [INFO] API Result for 1103937: Y - 200
+2026-08-01 18:31:23 [INFO] HANA status updated for 1103937
+2026-08-01 18:31:23 [INFO] Processing Invoice DocEntry: 1104188
+2026-08-01 18:31:23 [INFO] API Result for 1104188: Y - 200
+2026-08-01 18:31:23 [INFO] HANA status updated for 1104188
+2026-08-01 18:31:23 [INFO] Processing Invoice DocEntry: 1103938
+2026-08-01 18:31:23 [INFO] API Result for 1103938: Y - 200
+2026-08-01 18:31:23 [INFO] HANA status updated for 1103938
+2026-08-01 18:31:23 [INFO] Processing Invoice DocEntry: 1103939
+2026-08-01 18:31:23 [INFO] API Result for 1103939: Y - 200
+2026-08-01 18:31:23 [INFO] HANA status updated for 1103939
+2026-08-01 18:31:23 [INFO] Processing Invoice DocEntry: 1103940
+2026-08-01 18:31:24 [INFO] API Result for 1103940: Y - 200
+2026-08-01 18:31:24 [INFO] HANA status updated for 1103940
+2026-08-01 18:31:24 [INFO] Processing Invoice DocEntry: 1103941
+2026-08-01 18:31:24 [INFO] API Result for 1103941: Y - 200
+2026-08-01 18:31:24 [INFO] HANA status updated for 1103941
+2026-08-01 18:31:24 [INFO] Processing Invoice DocEntry: 1104191
+2026-08-01 18:31:24 [INFO] API Result for 1104191: Y - 200
+2026-08-01 18:31:24 [INFO] HANA status updated for 1104191
+2026-08-01 18:31:24 [INFO] Processing Invoice DocEntry: 1104193
+2026-08-01 18:31:24 [INFO] API Result for 1104193: Y - 200
+2026-08-01 18:31:24 [INFO] HANA status updated for 1104193
+2026-08-01 18:31:24 [INFO] Processing Invoice DocEntry: 1104192
+2026-08-01 18:31:24 [INFO] API Result for 1104192: Y - 200
+2026-08-01 18:31:24 [INFO] HANA status updated for 1104192
+2026-08-01 18:31:24 [INFO] Processing Invoice DocEntry: 1104195
+2026-08-01 18:31:24 [INFO] API Result for 1104195: Y - 200
+2026-08-01 18:31:24 [INFO] HANA status updated for 1104195
+2026-08-01 18:31:24 [INFO] Processing Invoice DocEntry: 1104197
+2026-08-01 18:31:25 [INFO] API Result for 1104197: Y - 200
+2026-08-01 18:31:25 [INFO] HANA status updated for 1104197
+2026-08-01 18:31:25 [INFO] Processing Invoice DocEntry: 1104198
+2026-08-01 18:31:25 [INFO] API Result for 1104198: Y - 200
+2026-08-01 18:31:25 [INFO] HANA status updated for 1104198
+2026-08-01 18:31:25 [INFO] Processing Invoice DocEntry: 1104199
+2026-08-01 18:31:25 [INFO] API Result for 1104199: N - 
+2026-08-01 18:31:25 [INFO] HANA status updated for 1104199
+2026-08-01 18:31:25 [INFO] Processing Invoice DocEntry: 1104200
+2026-08-01 18:31:25 [INFO] API Result for 1104200: Y - 200
+2026-08-01 18:31:25 [INFO] HANA status updated for 1104200
+2026-08-01 18:31:25 [INFO] Processing Invoice DocEntry: 1104201
+2026-08-01 18:31:25 [INFO] API Result for 1104201: Y - 200
+2026-08-01 18:31:25 [INFO] HANA status updated for 1104201
+2026-08-01 18:31:25 [INFO] Processing Invoice DocEntry: 1104202
+2026-08-01 18:31:26 [INFO] API Result for 1104202: Y - 200
+2026-08-01 18:31:26 [INFO] HANA status updated for 1104202
+2026-08-01 18:31:26 [INFO] Processing Invoice DocEntry: 1104204
+2026-08-01 18:31:26 [INFO] API Result for 1104204: Y - 200
+2026-08-01 18:31:26 [INFO] HANA status updated for 1104204
+2026-08-01 18:31:26 [INFO] Processing Invoice DocEntry: 1104206
+2026-08-01 18:31:26 [INFO] API Result for 1104206: Y - 200
+2026-08-01 18:31:26 [INFO] HANA status updated for 1104206
+2026-08-01 18:31:26 [INFO] Processing Invoice DocEntry: 1104210
+2026-08-01 18:31:26 [INFO] API Result for 1104210: Y - 200
+2026-08-01 18:31:26 [INFO] HANA status updated for 1104210
+2026-08-01 18:31:26 [INFO] Processing Invoice DocEntry: 1104211
+2026-08-01 18:31:26 [INFO] API Result for 1104211: Y - 200
+2026-08-01 18:31:26 [INFO] HANA status updated for 1104211
+2026-08-01 18:31:26 [INFO] Processing Invoice DocEntry: 1104212
+2026-08-01 18:31:26 [INFO] API Result for 1104212: Y - 200
+2026-08-01 18:31:26 [INFO] HANA status updated for 1104212
+2026-08-01 18:31:26 [INFO] Processing Invoice DocEntry: 1104213
+2026-08-01 18:31:27 [INFO] API Result for 1104213: Y - 200
+2026-08-01 18:31:27 [INFO] HANA status updated for 1104213
+2026-08-01 18:31:27 [INFO] Processing Invoice DocEntry: 1104214
+2026-08-01 18:31:27 [INFO] API Result for 1104214: N - 
+2026-08-01 18:31:27 [INFO] HANA status updated for 1104214
+2026-08-01 18:31:27 [INFO] Processing Invoice DocEntry: 1104216
+2026-08-01 18:31:27 [INFO] API Result for 1104216: Y - 200
+2026-08-01 18:31:27 [INFO] HANA status updated for 1104216
+2026-08-01 18:31:27 [INFO] Processing Invoice DocEntry: 1104217
+2026-08-01 18:31:27 [INFO] API Result for 1104217: Y - 200
+2026-08-01 18:31:27 [INFO] HANA status updated for 1104217
+2026-08-01 18:31:27 [INFO] Processing Invoice DocEntry: 1104218
+2026-08-01 18:31:27 [INFO] API Result for 1104218: Y - 200
+2026-08-01 18:31:27 [INFO] HANA status updated for 1104218
+2026-08-01 18:31:27 [INFO] Processing Invoice DocEntry: 1104219
+2026-08-01 18:31:27 [INFO] API Result for 1104219: Y - 200
+2026-08-01 18:31:27 [INFO] HANA status updated for 1104219
+2026-08-01 18:31:27 [INFO] Processing Invoice DocEntry: 1104220
+2026-08-01 18:31:28 [INFO] API Result for 1104220: Y - 200
+2026-08-01 18:31:28 [INFO] HANA status updated for 1104220
+2026-08-01 18:31:28 [INFO] Processing Invoice DocEntry: 1104228
+2026-08-01 18:31:28 [INFO] API Result for 1104228: Y - 200
+2026-08-01 18:31:28 [INFO] HANA status updated for 1104228
+2026-08-01 18:31:28 [INFO] Processing Invoice DocEntry: 1104249
+2026-08-01 18:31:28 [INFO] API Result for 1104249: Y - 200
+2026-08-01 18:31:28 [INFO] HANA status updated for 1104249
+2026-08-01 18:31:28 [INFO] Processing Invoice DocEntry: 1104250
+2026-08-01 18:31:28 [INFO] API Result for 1104250: Y - 200
+2026-08-01 18:31:28 [INFO] HANA status updated for 1104250
+2026-08-01 18:31:28 [INFO] Processing Invoice DocEntry: 1104251
+2026-08-01 18:31:28 [INFO] API Result for 1104251: Y - 200
+2026-08-01 18:31:28 [INFO] HANA status updated for 1104251
+2026-08-01 18:31:28 [INFO] Processing Invoice DocEntry: 1104252
+2026-08-01 18:31:29 [INFO] API Result for 1104252: Y - 200
+2026-08-01 18:31:29 [INFO] HANA status updated for 1104252
+2026-08-01 18:31:29 [INFO] Processing Invoice DocEntry: 1104253
+2026-08-01 18:31:29 [INFO] API Result for 1104253: Y - 200
+2026-08-01 18:31:29 [INFO] HANA status updated for 1104253
+2026-08-01 18:31:29 [INFO] Processing Invoice DocEntry: 1104254
+2026-08-01 18:31:29 [INFO] API Result for 1104254: Y - 200
+2026-08-01 18:31:29 [INFO] HANA status updated for 1104254
+2026-08-01 18:31:29 [INFO] Processing Invoice DocEntry: 1104255
+2026-08-01 18:31:29 [INFO] API Result for 1104255: Y - 200
+2026-08-01 18:31:29 [INFO] HANA status updated for 1104255
+2026-08-01 18:31:29 [INFO] Processing Invoice DocEntry: 1104256
+2026-08-01 18:31:29 [INFO] API Result for 1104256: Y - 200
+2026-08-01 18:31:29 [INFO] HANA status updated for 1104256
+2026-08-01 18:31:29 [INFO] Processing Invoice DocEntry: 1104257
+2026-08-01 18:31:29 [INFO] API Result for 1104257: Y - 200
+2026-08-01 18:31:30 [INFO] HANA status updated for 1104257
+2026-08-01 18:31:30 [INFO] Processing Invoice DocEntry: 1104258
+2026-08-01 18:31:30 [INFO] API Result for 1104258: Y - 200
+2026-08-01 18:31:30 [INFO] HANA status updated for 1104258
+2026-08-01 18:31:30 [INFO] Processing Invoice DocEntry: 1104259
+2026-08-01 18:31:30 [INFO] API Result for 1104259: Y - 200
+2026-08-01 18:31:30 [INFO] HANA status updated for 1104259
+2026-08-01 18:31:30 [INFO] Processing Invoice DocEntry: 1104262
+2026-08-01 18:31:30 [INFO] API Result for 1104262: Y - 200
+2026-08-01 18:31:30 [INFO] HANA status updated for 1104262
+2026-08-01 18:31:30 [INFO] Processing Invoice DocEntry: 1104261
+2026-08-01 18:31:31 [INFO] API Result for 1104261: Y - 200
+2026-08-01 18:31:31 [INFO] HANA status updated for 1104261
+2026-08-01 18:31:31 [INFO] Processing Invoice DocEntry: 1104263
+2026-08-01 18:31:31 [INFO] API Result for 1104263: Y - 200
+2026-08-01 18:31:31 [INFO] HANA status updated for 1104263
+2026-08-01 18:31:31 [INFO] Processing Invoice DocEntry: 1104265
+2026-08-01 18:31:31 [INFO] API Result for 1104265: Y - 200
+2026-08-01 18:31:31 [INFO] HANA status updated for 1104265
+2026-08-01 18:31:31 [INFO] Processing Invoice DocEntry: 1104266
+2026-08-01 18:31:31 [INFO] API Result for 1104266: Y - 200
+2026-08-01 18:31:31 [INFO] HANA status updated for 1104266
+2026-08-01 18:31:31 [INFO] Processing Invoice DocEntry: 1104267
+2026-08-01 18:31:31 [INFO] API Result for 1104267: Y - 200
+2026-08-01 18:31:31 [INFO] HANA status updated for 1104267
+2026-08-01 18:31:31 [INFO] Processing Invoice DocEntry: 1104264
+2026-08-01 18:31:32 [INFO] API Result for 1104264: Y - 200
+2026-08-01 18:31:32 [INFO] HANA status updated for 1104264
+2026-08-01 18:31:32 [INFO] Processing Invoice DocEntry: 1104269
+2026-08-01 18:31:32 [INFO] API Result for 1104269: Y - 200
+2026-08-01 18:31:32 [INFO] HANA status updated for 1104269
+2026-08-01 18:31:32 [INFO] Processing Invoice DocEntry: 1104273
+2026-08-01 18:31:32 [INFO] API Result for 1104273: Y - 200
+2026-08-01 18:31:32 [INFO] HANA status updated for 1104273
+2026-08-01 18:31:32 [INFO] Processing Invoice DocEntry: 1104272
+2026-08-01 18:31:32 [INFO] API Result for 1104272: Y - 200
+2026-08-01 18:31:32 [INFO] HANA status updated for 1104272
+2026-08-01 18:31:32 [INFO] Processing Invoice DocEntry: 1104274
+2026-08-01 18:31:32 [INFO] API Result for 1104274: Y - 200
+2026-08-01 18:31:32 [INFO] HANA status updated for 1104274
+2026-08-01 18:31:32 [INFO] Processing Invoice DocEntry: 1104270
+2026-08-01 18:31:33 [INFO] API Result for 1104270: Y - 200
+2026-08-01 18:31:33 [INFO] HANA status updated for 1104270
+2026-08-01 18:31:33 [INFO] Processing Invoice DocEntry: 1104276
+2026-08-01 18:31:33 [INFO] API Result for 1104276: Y - 200
+2026-08-01 18:31:33 [INFO] HANA status updated for 1104276
+2026-08-01 18:31:33 [INFO] Processing Invoice DocEntry: 1104277
+2026-08-01 18:31:33 [INFO] API Result for 1104277: N - 
+2026-08-01 18:31:33 [INFO] HANA status updated for 1104277
+2026-08-01 18:31:33 [INFO] Processing Invoice DocEntry: 1104278
+2026-08-01 18:31:33 [INFO] API Result for 1104278: Y - 200
+2026-08-01 18:31:33 [INFO] HANA status updated for 1104278
+2026-08-01 18:31:33 [INFO] Processing Invoice DocEntry: 1104244
+2026-08-01 18:31:33 [INFO] API Result for 1104244: Y - 200
+2026-08-01 18:31:33 [INFO] HANA status updated for 1104244
+2026-08-01 18:31:33 [INFO] Processing Invoice DocEntry: 1104279
+2026-08-01 18:31:34 [INFO] API Result for 1104279: N - 
+2026-08-01 18:31:34 [INFO] HANA status updated for 1104279
+2026-08-01 18:31:34 [INFO] Processing Invoice DocEntry: 1104280
+2026-08-01 18:31:34 [INFO] API Result for 1104280: Y - 200
+2026-08-01 18:31:34 [INFO] HANA status updated for 1104280
+2026-08-01 18:31:34 [INFO] Processing Invoice DocEntry: 1104281
+2026-08-01 18:31:34 [INFO] API Result for 1104281: Y - 200
+2026-08-01 18:31:34 [INFO] HANA status updated for 1104281
+2026-08-01 18:31:34 [INFO] Processing Invoice DocEntry: 1104282
+2026-08-01 18:31:34 [INFO] API Result for 1104282: Y - 200
+2026-08-01 18:31:34 [INFO] HANA status updated for 1104282
+2026-08-01 18:31:34 [INFO] Processing Invoice DocEntry: 1104283
+2026-08-01 18:31:34 [INFO] API Result for 1104283: Y - 200
+2026-08-01 18:31:34 [INFO] HANA status updated for 1104283
+2026-08-01 18:31:34 [INFO] Processing Invoice DocEntry: 1104284
+2026-08-01 18:31:35 [INFO] API Result for 1104284: Y - 200
+2026-08-01 18:31:35 [INFO] HANA status updated for 1104284
+2026-08-01 18:31:35 [INFO] Processing Invoice DocEntry: 1104285
+2026-08-01 18:31:35 [INFO] API Result for 1104285: Y - 200
+2026-08-01 18:31:35 [INFO] HANA status updated for 1104285
+2026-08-01 18:31:35 [INFO] Processing Invoice DocEntry: 1103942
+2026-08-01 18:31:35 [INFO] API Result for 1103942: Y - 200
+2026-08-01 18:31:35 [INFO] HANA status updated for 1103942
+2026-08-01 18:31:35 [INFO] Processing Invoice DocEntry: 1104286
+2026-08-01 18:31:35 [INFO] API Result for 1104286: Y - 200
+2026-08-01 18:31:35 [INFO] HANA status updated for 1104286
+2026-08-01 18:31:35 [INFO] Processing Invoice DocEntry: 1103944
+2026-08-01 18:31:35 [INFO] API Result for 1103944: Y - 200
+2026-08-01 18:31:35 [INFO] HANA status updated for 1103944
+2026-08-01 18:31:35 [INFO] Processing Invoice DocEntry: 1103945
+2026-08-01 18:31:36 [INFO] API Result for 1103945: Y - 200
+2026-08-01 18:31:36 [INFO] HANA status updated for 1103945
+2026-08-01 18:31:36 [INFO] Processing Invoice DocEntry: 1104287
+2026-08-01 18:31:36 [INFO] API Result for 1104287: Y - 200
+2026-08-01 18:31:36 [INFO] HANA status updated for 1104287
+2026-08-01 18:31:36 [INFO] Processing Invoice DocEntry: 1103946
+2026-08-01 18:31:36 [INFO] API Result for 1103946: Y - 200
+2026-08-01 18:31:36 [INFO] HANA status updated for 1103946
+2026-08-01 18:31:36 [INFO] Processing Invoice DocEntry: 1104288
+2026-08-01 18:31:36 [INFO] API Result for 1104288: Y - 200
+2026-08-01 18:31:36 [INFO] HANA status updated for 1104288
+2026-08-01 18:31:36 [INFO] Processing Invoice DocEntry: 1103947
+2026-08-01 18:31:36 [INFO] API Result for 1103947: Y - 200
+2026-08-01 18:31:36 [INFO] HANA status updated for 1103947
+2026-08-01 18:31:36 [INFO] Processing Invoice DocEntry: 1104289
+2026-08-01 18:31:37 [INFO] API Result for 1104289: Y - 200
+2026-08-01 18:31:37 [INFO] HANA status updated for 1104289
+2026-08-01 18:31:37 [INFO] Processing Invoice DocEntry: 1103948
+2026-08-01 18:31:37 [INFO] API Result for 1103948: Y - 200
+2026-08-01 18:31:37 [INFO] HANA status updated for 1103948
+2026-08-01 18:31:37 [INFO] Processing Invoice DocEntry: 1104290
+2026-08-01 18:31:37 [INFO] API Result for 1104290: Y - 200
+2026-08-01 18:31:37 [INFO] HANA status updated for 1104290
+2026-08-01 18:31:37 [INFO] Processing Invoice DocEntry: 1103949
+2026-08-01 18:31:37 [INFO] API Result for 1103949: Y - 200
+2026-08-01 18:31:37 [INFO] HANA status updated for 1103949
+2026-08-01 18:31:37 [INFO] Processing Invoice DocEntry: 1104291
+2026-08-01 18:31:37 [INFO] API Result for 1104291: Y - 200
+2026-08-01 18:31:37 [INFO] HANA status updated for 1104291
+2026-08-01 18:31:37 [INFO] Processing Invoice DocEntry: 1103950
+2026-08-01 18:31:38 [INFO] API Result for 1103950: N - 
+2026-08-01 18:31:38 [INFO] HANA status updated for 1103950
+2026-08-01 18:31:38 [INFO] Processing Invoice DocEntry: 1103952
+2026-08-01 18:31:38 [INFO] API Result for 1103952: Y - 200
+2026-08-01 18:31:38 [INFO] HANA status updated for 1103952
+2026-08-01 18:31:38 [INFO] Processing Invoice DocEntry: 1104292
+2026-08-01 18:31:38 [INFO] API Result for 1104292: Y - 200
+2026-08-01 18:31:38 [INFO] HANA status updated for 1104292
+2026-08-01 18:31:38 [INFO] Processing Invoice DocEntry: 1103953
+2026-08-01 18:31:38 [INFO] API Result for 1103953: Y - 200
+2026-08-01 18:31:38 [INFO] HANA status updated for 1103953
+2026-08-01 18:31:38 [INFO] Processing Invoice DocEntry: 1104293
+2026-08-01 18:31:38 [INFO] API Result for 1104293: Y - 200
+2026-08-01 18:31:38 [INFO] HANA status updated for 1104293
+2026-08-01 18:31:38 [INFO] Processing Invoice DocEntry: 1103954
+2026-08-01 18:31:39 [INFO] API Result for 1103954: Y - 200
+2026-08-01 18:31:39 [INFO] HANA status updated for 1103954
+2026-08-01 18:31:39 [INFO] Processing Invoice DocEntry: 1104294
+2026-08-01 18:31:39 [INFO] API Result for 1104294: Y - 200
+2026-08-01 18:31:39 [INFO] HANA status updated for 1104294
+2026-08-01 18:31:39 [INFO] Processing Invoice DocEntry: 1103955
+2026-08-01 18:31:39 [INFO] API Result for 1103955: Y - 200
+2026-08-01 18:31:39 [INFO] HANA status updated for 1103955
+2026-08-01 18:31:39 [INFO] Processing Invoice DocEntry: 1103957
+2026-08-01 18:31:39 [INFO] API Result for 1103957: Y - 200
+2026-08-01 18:31:39 [INFO] HANA status updated for 1103957
+2026-08-01 18:31:39 [INFO] Processing Invoice DocEntry: 1104295
+2026-08-01 18:31:40 [INFO] API Result for 1104295: Y - 200
+2026-08-01 18:31:40 [INFO] HANA status updated for 1104295
+2026-08-01 18:31:40 [INFO] Processing Invoice DocEntry: 1104296
+2026-08-01 18:31:40 [INFO] API Result for 1104296: Y - 200
+2026-08-01 18:31:40 [INFO] HANA status updated for 1104296
+2026-08-01 18:31:40 [INFO] Processing Invoice DocEntry: 1103958
+2026-08-01 18:31:40 [INFO] API Result for 1103958: Y - 200
+2026-08-01 18:31:40 [INFO] HANA status updated for 1103958
+2026-08-01 18:31:40 [INFO] Processing Invoice DocEntry: 1103979
+2026-08-01 18:31:40 [INFO] API Result for 1103979: Y - 200
+2026-08-01 18:31:40 [INFO] HANA status updated for 1103979
+2026-08-01 18:31:40 [INFO] Processing Invoice DocEntry: 1104297
+2026-08-01 18:31:41 [INFO] API Result for 1104297: Y - 200
+2026-08-01 18:31:41 [INFO] HANA status updated for 1104297
+2026-08-01 18:31:41 [INFO] Processing Invoice DocEntry: 1103980
+2026-08-01 18:31:41 [INFO] API Result for 1103980: Y - 200
+2026-08-01 18:31:41 [INFO] HANA status updated for 1103980
+2026-08-01 18:31:41 [INFO] Processing Invoice DocEntry: 1104298
+2026-08-01 18:31:41 [INFO] API Result for 1104298: Y - 200
+2026-08-01 18:31:41 [INFO] HANA status updated for 1104298
+2026-08-01 18:31:41 [INFO] Processing Invoice DocEntry: 1103981
+2026-08-01 18:31:41 [INFO] API Result for 1103981: Y - 200
+2026-08-01 18:31:41 [INFO] HANA status updated for 1103981
+2026-08-01 18:31:41 [INFO] Processing Invoice DocEntry: 1103982
+2026-08-01 18:31:41 [INFO] API Result for 1103982: Y - 200
+2026-08-01 18:31:41 [INFO] HANA status updated for 1103982
+2026-08-01 18:31:41 [INFO] Processing Invoice DocEntry: 1104299
+2026-08-01 18:31:41 [INFO] API Result for 1104299: Y - 200
+2026-08-01 18:31:41 [INFO] HANA status updated for 1104299
+2026-08-01 18:31:41 [INFO] Processing Invoice DocEntry: 1104300
+2026-08-01 18:31:42 [INFO] API Result for 1104300: Y - 200
+2026-08-01 18:31:42 [INFO] HANA status updated for 1104300
+2026-08-01 18:31:42 [INFO] Processing Invoice DocEntry: 1103983
+2026-08-01 18:31:42 [INFO] API Result for 1103983: Y - 200
+2026-08-01 18:31:42 [INFO] HANA status updated for 1103983
+2026-08-01 18:31:42 [INFO] Processing Invoice DocEntry: 1104301
+2026-08-01 18:31:42 [INFO] API Result for 1104301: Y - 200
+2026-08-01 18:31:42 [INFO] HANA status updated for 1104301
+2026-08-01 18:31:42 [INFO] Processing Invoice DocEntry: 1103984
+2026-08-01 18:31:42 [INFO] API Result for 1103984: Y - 200
+2026-08-01 18:31:42 [INFO] HANA status updated for 1103984
+2026-08-01 18:31:42 [INFO] Processing Invoice DocEntry: 1103985
+2026-08-01 18:31:42 [INFO] API Result for 1103985: Y - 200
+2026-08-01 18:31:42 [INFO] HANA status updated for 1103985
+2026-08-01 18:31:42 [INFO] Processing Invoice DocEntry: 1104302
+2026-08-01 18:31:43 [INFO] API Result for 1104302: Y - 200
+2026-08-01 18:31:43 [INFO] HANA status updated for 1104302
+2026-08-01 18:31:43 [INFO] Processing Invoice DocEntry: 1103986
+2026-08-01 18:31:43 [INFO] API Result for 1103986: Y - 200
+2026-08-01 18:31:43 [INFO] HANA status updated for 1103986
+2026-08-01 18:31:43 [INFO] Processing Invoice DocEntry: 1104303
+2026-08-01 18:31:43 [INFO] API Result for 1104303: Y - 200
+2026-08-01 18:31:43 [INFO] HANA status updated for 1104303
+2026-08-01 18:31:43 [INFO] Processing Invoice DocEntry: 1104304
+2026-08-01 18:31:43 [INFO] API Result for 1104304: Y - 200
+2026-08-01 18:31:43 [INFO] HANA status updated for 1104304
+2026-08-01 18:31:43 [INFO] Processing Invoice DocEntry: 1103987
+2026-08-01 18:31:43 [INFO] API Result for 1103987: Y - 200
+2026-08-01 18:31:43 [INFO] HANA status updated for 1103987
+2026-08-01 18:31:43 [INFO] Processing Invoice DocEntry: 1103988
+2026-08-01 18:31:43 [INFO] API Result for 1103988: Y - 200
+2026-08-01 18:31:43 [INFO] HANA status updated for 1103988
+2026-08-01 18:31:43 [INFO] Processing Invoice DocEntry: 1104305
+2026-08-01 18:31:44 [INFO] API Result for 1104305: Y - 200
+2026-08-01 18:31:44 [INFO] HANA status updated for 1104305
+2026-08-01 18:31:44 [INFO] Processing Invoice DocEntry: 1103989
+2026-08-01 18:31:44 [INFO] API Result for 1103989: Y - 200
+2026-08-01 18:31:44 [INFO] HANA status updated for 1103989
+2026-08-01 18:31:44 [INFO] Processing Invoice DocEntry: 1103990
+2026-08-01 18:31:44 [INFO] API Result for 1103990: Y - 200
+2026-08-01 18:31:44 [INFO] HANA status updated for 1103990
+2026-08-01 18:31:44 [INFO] Processing Invoice DocEntry: 1104306
+2026-08-01 18:31:44 [INFO] API Result for 1104306: Y - 200
+2026-08-01 18:31:44 [INFO] HANA status updated for 1104306
+2026-08-01 18:31:44 [INFO] Processing Invoice DocEntry: 1104307
+2026-08-01 18:31:44 [INFO] API Result for 1104307: Y - 200
+2026-08-01 18:31:44 [INFO] HANA status updated for 1104307
+2026-08-01 18:31:44 [INFO] Processing Invoice DocEntry: 1103991
+2026-08-01 18:31:45 [INFO] API Result for 1103991: Y - 200
+2026-08-01 18:31:45 [INFO] HANA status updated for 1103991
+2026-08-01 18:31:45 [INFO] Processing Invoice DocEntry: 1104308
+2026-08-01 18:31:45 [INFO] API Result for 1104308: Y - 200
+2026-08-01 18:31:45 [INFO] HANA status updated for 1104308
+2026-08-01 18:31:45 [INFO] Processing Invoice DocEntry: 1103992
+2026-08-01 18:31:45 [INFO] API Result for 1103992: Y - 200
+2026-08-01 18:31:45 [INFO] HANA status updated for 1103992
+2026-08-01 18:31:45 [INFO] Processing Invoice DocEntry: 1104309
+2026-08-01 18:31:45 [INFO] API Result for 1104309: Y - 200
+2026-08-01 18:31:45 [INFO] HANA status updated for 1104309
+2026-08-01 18:31:45 [INFO] Processing Invoice DocEntry: 1104310
+2026-08-01 18:31:45 [INFO] API Result for 1104310: Y - 200
+2026-08-01 18:31:45 [INFO] HANA status updated for 1104310
+2026-08-01 18:31:45 [INFO] Processing Invoice DocEntry: 1103993
+2026-08-01 18:31:45 [INFO] API Result for 1103993: Y - 200
+2026-08-01 18:31:45 [INFO] HANA status updated for 1103993
+2026-08-01 18:31:45 [INFO] Processing Invoice DocEntry: 1104311
+2026-08-01 18:31:45 [INFO] API Result for 1104311: Y - 200
+2026-08-01 18:31:46 [INFO] HANA status updated for 1104311
+2026-08-01 18:31:46 [INFO] Processing Invoice DocEntry: 1103994
+2026-08-01 18:31:46 [INFO] API Result for 1103994: Y - 200
+2026-08-01 18:31:46 [INFO] HANA status updated for 1103994
+2026-08-01 18:31:46 [INFO] Processing Invoice DocEntry: 1104016
+2026-08-01 18:31:46 [INFO] API Result for 1104016: Y - 200
+2026-08-01 18:31:46 [INFO] HANA status updated for 1104016
+2026-08-01 18:31:46 [INFO] Processing Invoice DocEntry: 1104312
+2026-08-01 18:31:46 [INFO] API Result for 1104312: Y - 200
+2026-08-01 18:31:46 [INFO] HANA status updated for 1104312
+2026-08-01 18:31:46 [INFO] Processing Invoice DocEntry: 1104020
+2026-08-01 18:31:46 [INFO] API Result for 1104020: Y - 200
+2026-08-01 18:31:46 [INFO] HANA status updated for 1104020
+2026-08-01 18:31:46 [INFO] Processing Invoice DocEntry: 1104313
+2026-08-01 18:31:46 [INFO] API Result for 1104313: Y - 200
+2026-08-01 18:31:47 [INFO] HANA status updated for 1104313
+2026-08-01 18:31:47 [INFO] Processing Invoice DocEntry: 1104314
+2026-08-01 18:31:47 [INFO] API Result for 1104314: Y - 200
+2026-08-01 18:31:47 [INFO] HANA status updated for 1104314
+2026-08-01 18:31:47 [INFO] Processing Invoice DocEntry: 1104021
+2026-08-01 18:31:47 [INFO] API Result for 1104021: Y - 200
+2026-08-01 18:31:47 [INFO] HANA status updated for 1104021
+2026-08-01 18:31:47 [INFO] Processing Invoice DocEntry: 1104022
+2026-08-01 18:31:47 [INFO] API Result for 1104022: Y - 200
+2026-08-01 18:31:47 [INFO] HANA status updated for 1104022
+2026-08-01 18:31:47 [INFO] Processing Invoice DocEntry: 1104315
+2026-08-01 18:31:47 [INFO] API Result for 1104315: Y - 200
+2026-08-01 18:31:47 [INFO] HANA status updated for 1104315
+2026-08-01 18:31:47 [INFO] Processing Invoice DocEntry: 1104023
+2026-08-01 18:31:47 [INFO] API Result for 1104023: Y - 200
+2026-08-01 18:31:47 [INFO] HANA status updated for 1104023
+2026-08-01 18:31:47 [INFO] Processing Invoice DocEntry: 1104024
+2026-08-01 18:31:48 [INFO] API Result for 1104024: Y - 200
+2026-08-01 18:31:48 [INFO] HANA status updated for 1104024
+2026-08-01 18:31:48 [INFO] Processing Invoice DocEntry: 1104316
+2026-08-01 18:31:48 [INFO] API Result for 1104316: Y - 200
+2026-08-01 18:31:48 [INFO] HANA status updated for 1104316
+2026-08-01 18:31:48 [INFO] Processing Invoice DocEntry: 1104025
+2026-08-01 18:31:48 [INFO] API Result for 1104025: Y - 200
+2026-08-01 18:31:48 [INFO] HANA status updated for 1104025
+2026-08-01 18:31:48 [INFO] Processing Invoice DocEntry: 1104317
+2026-08-01 18:31:48 [INFO] API Result for 1104317: Y - 200
+2026-08-01 18:31:48 [INFO] HANA status updated for 1104317
+2026-08-01 18:31:48 [INFO] Processing Invoice DocEntry: 1104026
+2026-08-01 18:31:48 [INFO] API Result for 1104026: Y - 200
+2026-08-01 18:31:48 [INFO] HANA status updated for 1104026
+2026-08-01 18:31:48 [INFO] Processing Invoice DocEntry: 1104318
+2026-08-01 18:31:49 [INFO] API Result for 1104318: Y - 200
+2026-08-01 18:31:49 [INFO] HANA status updated for 1104318
+2026-08-01 18:31:49 [INFO] Processing Invoice DocEntry: 1104319
+2026-08-01 18:31:49 [INFO] API Result for 1104319: Y - 200
+2026-08-01 18:31:49 [INFO] HANA status updated for 1104319
+2026-08-01 18:31:49 [INFO] Processing Invoice DocEntry: 1104028
+2026-08-01 18:31:49 [INFO] API Result for 1104028: Y - 200
+2026-08-01 18:31:49 [INFO] HANA status updated for 1104028
+2026-08-01 18:31:49 [INFO] Processing Invoice DocEntry: 1104320
+2026-08-01 18:31:49 [INFO] API Result for 1104320: Y - 200
+2026-08-01 18:31:49 [INFO] HANA status updated for 1104320
+2026-08-01 18:31:49 [INFO] Processing Invoice DocEntry: 1104321
+2026-08-01 18:31:49 [INFO] API Result for 1104321: Y - 200
+2026-08-01 18:31:49 [INFO] HANA status updated for 1104321
+2026-08-01 18:31:49 [INFO] Processing Invoice DocEntry: 1104322
+2026-08-01 18:31:50 [INFO] API Result for 1104322: Y - 200
+2026-08-01 18:31:50 [INFO] HANA status updated for 1104322
+2026-08-01 18:31:50 [INFO] Processing Invoice DocEntry: 1104323
+2026-08-01 18:31:50 [INFO] API Result for 1104323: Y - 200
+2026-08-01 18:31:50 [INFO] HANA status updated for 1104323
+2026-08-01 18:31:50 [INFO] Processing Invoice DocEntry: 1104030
+2026-08-01 18:31:50 [INFO] API Result for 1104030: Y - 200
+2026-08-01 18:31:50 [INFO] HANA status updated for 1104030
+2026-08-01 18:31:50 [INFO] Processing Invoice DocEntry: 1104325
+2026-08-01 18:31:50 [INFO] API Result for 1104325: Y - 200
+2026-08-01 18:31:50 [INFO] HANA status updated for 1104325
+2026-08-01 18:31:50 [INFO] Processing Invoice DocEntry: 1104324
+2026-08-01 18:31:50 [INFO] API Result for 1104324: Y - 200
+2026-08-01 18:31:50 [INFO] HANA status updated for 1104324
+2026-08-01 18:31:50 [INFO] Processing Invoice DocEntry: 1104031
+2026-08-01 18:31:51 [INFO] API Result for 1104031: Y - 200
+2026-08-01 18:31:51 [INFO] HANA status updated for 1104031
+2026-08-01 18:31:51 [INFO] Processing Invoice DocEntry: 1104326
+2026-08-01 18:31:51 [INFO] API Result for 1104326: Y - 200
+2026-08-01 18:31:51 [INFO] HANA status updated for 1104326
+2026-08-01 18:31:51 [INFO] Processing Invoice DocEntry: 1104032
+2026-08-01 18:31:51 [INFO] API Result for 1104032: Y - 200
+2026-08-01 18:31:51 [INFO] HANA status updated for 1104032
+2026-08-01 18:31:51 [INFO] Processing Invoice DocEntry: 1104327
+2026-08-01 18:31:51 [INFO] API Result for 1104327: Y - 200
+2026-08-01 18:31:51 [INFO] HANA status updated for 1104327
+2026-08-01 18:31:51 [INFO] Processing Invoice DocEntry: 1104033
+2026-08-01 18:31:51 [INFO] API Result for 1104033: Y - 200
+2026-08-01 18:31:51 [INFO] HANA status updated for 1104033
+2026-08-01 18:31:51 [INFO] Processing Invoice DocEntry: 1104034
+2026-08-01 18:31:52 [INFO] API Result for 1104034: Y - 200
+2026-08-01 18:31:52 [INFO] HANA status updated for 1104034
+2026-08-01 18:31:52 [INFO] Processing Invoice DocEntry: 1104328
+2026-08-01 18:31:52 [INFO] API Result for 1104328: Y - 200
+2026-08-01 18:31:52 [INFO] HANA status updated for 1104328
+2026-08-01 18:31:52 [INFO] Processing Invoice DocEntry: 1104329
+2026-08-01 18:31:52 [INFO] API Result for 1104329: Y - 200
+2026-08-01 18:31:52 [INFO] HANA status updated for 1104329
+2026-08-01 18:31:52 [INFO] Processing Invoice DocEntry: 1104035
+2026-08-01 18:31:52 [INFO] API Result for 1104035: Y - 200
+2026-08-01 18:31:52 [INFO] HANA status updated for 1104035
+2026-08-01 18:31:52 [INFO] Processing Invoice DocEntry: 1104330
+2026-08-01 18:31:52 [INFO] API Result for 1104330: Y - 200
+2026-08-01 18:31:52 [INFO] HANA status updated for 1104330
+2026-08-01 18:31:52 [INFO] Processing Invoice DocEntry: 1104038
+2026-08-01 18:31:53 [INFO] API Result for 1104038: Y - 200
+2026-08-01 18:31:53 [INFO] HANA status updated for 1104038
+2026-08-01 18:31:53 [INFO] Processing Invoice DocEntry: 1104331
+2026-08-01 18:31:53 [INFO] API Result for 1104331: Y - 200
+2026-08-01 18:31:53 [INFO] HANA status updated for 1104331
+2026-08-01 18:31:53 [INFO] Processing Invoice DocEntry: 1104039
+2026-08-01 18:31:53 [INFO] API Result for 1104039: Y - 200
+2026-08-01 18:31:53 [INFO] HANA status updated for 1104039
+2026-08-01 18:31:53 [INFO] Processing Invoice DocEntry: 1104332
+2026-08-01 18:31:53 [INFO] API Result for 1104332: Y - 200
+2026-08-01 18:31:53 [INFO] HANA status updated for 1104332
+2026-08-01 18:31:53 [INFO] Processing Invoice DocEntry: 1104040
+2026-08-01 18:31:53 [INFO] API Result for 1104040: Y - 200
+2026-08-01 18:31:53 [INFO] HANA status updated for 1104040
+2026-08-01 18:31:53 [INFO] Processing Invoice DocEntry: 1104041
+2026-08-01 18:31:54 [INFO] API Result for 1104041: Y - 200
+2026-08-01 18:31:54 [INFO] HANA status updated for 1104041
+2026-08-01 18:31:54 [INFO] Processing Invoice DocEntry: 1104333
+2026-08-01 18:31:54 [INFO] API Result for 1104333: Y - 200
+2026-08-01 18:31:54 [INFO] HANA status updated for 1104333
+2026-08-01 18:31:54 [INFO] Processing Invoice DocEntry: 1104042
+2026-08-01 18:31:54 [INFO] API Result for 1104042: Y - 200
+2026-08-01 18:31:54 [INFO] HANA status updated for 1104042
+2026-08-01 18:31:54 [INFO] Processing Invoice DocEntry: 1104334
+2026-08-01 18:31:54 [INFO] API Result for 1104334: Y - 200
+2026-08-01 18:31:54 [INFO] HANA status updated for 1104334
+2026-08-01 18:31:54 [INFO] Processing Invoice DocEntry: 1104043
+2026-08-01 18:31:54 [INFO] API Result for 1104043: Y - 200
+2026-08-01 18:31:54 [INFO] HANA status updated for 1104043
+2026-08-01 18:31:54 [INFO] Processing Invoice DocEntry: 1104044
+2026-08-01 18:31:55 [INFO] API Result for 1104044: Y - 200
+2026-08-01 18:31:55 [INFO] HANA status updated for 1104044
+2026-08-01 18:31:55 [INFO] Processing Invoice DocEntry: 1104335
+2026-08-01 18:31:55 [INFO] API Result for 1104335: Y - 200
+2026-08-01 18:31:55 [INFO] HANA status updated for 1104335
+2026-08-01 18:31:55 [INFO] Processing Invoice DocEntry: 1104045
+2026-08-01 18:31:55 [INFO] API Result for 1104045: Y - 200
+2026-08-01 18:31:55 [INFO] HANA status updated for 1104045
+2026-08-01 18:31:55 [INFO] Processing Invoice DocEntry: 1104336
+2026-08-01 18:31:55 [INFO] API Result for 1104336: Y - 200
+2026-08-01 18:31:55 [INFO] HANA status updated for 1104336
+2026-08-01 18:31:55 [INFO] Processing Invoice DocEntry: 1104046
+2026-08-01 18:31:55 [INFO] API Result for 1104046: Y - 200
+2026-08-01 18:31:55 [INFO] HANA status updated for 1104046
+2026-08-01 18:31:55 [INFO] Processing Invoice DocEntry: 1104047
+2026-08-01 18:31:56 [INFO] API Result for 1104047: Y - 200
+2026-08-01 18:31:56 [INFO] HANA status updated for 1104047
+2026-08-01 18:31:56 [INFO] Processing Invoice DocEntry: 1104337
+2026-08-01 18:31:56 [INFO] API Result for 1104337: Y - 200
+2026-08-01 18:31:56 [INFO] HANA status updated for 1104337
+2026-08-01 18:31:56 [INFO] Processing Invoice DocEntry: 1104048
+2026-08-01 18:31:56 [INFO] API Result for 1104048: Y - 200
+2026-08-01 18:31:56 [INFO] HANA status updated for 1104048
+2026-08-01 18:31:56 [INFO] Processing Invoice DocEntry: 1104338
+2026-08-01 18:31:56 [INFO] API Result for 1104338: Y - 200
+2026-08-01 18:31:56 [INFO] HANA status updated for 1104338
+2026-08-01 18:31:56 [INFO] Processing Invoice DocEntry: 1104049
+2026-08-01 18:31:56 [INFO] API Result for 1104049: Y - 200
+2026-08-01 18:31:56 [INFO] HANA status updated for 1104049
+2026-08-01 18:31:56 [INFO] Processing Invoice DocEntry: 1104050
+2026-08-01 18:31:57 [INFO] API Result for 1104050: Y - 200
+2026-08-01 18:31:57 [INFO] HANA status updated for 1104050
+2026-08-01 18:31:57 [INFO] Processing Invoice DocEntry: 1104339
+2026-08-01 18:31:57 [INFO] API Result for 1104339: Y - 200
+2026-08-01 18:31:57 [INFO] HANA status updated for 1104339
+2026-08-01 18:31:57 [INFO] Processing Invoice DocEntry: 1104340
+2026-08-01 18:31:57 [INFO] API Result for 1104340: Y - 200
+2026-08-01 18:31:57 [INFO] HANA status updated for 1104340
+2026-08-01 18:31:57 [INFO] Processing Invoice DocEntry: 1104051
+2026-08-01 18:31:57 [INFO] API Result for 1104051: Y - 200
+2026-08-01 18:31:57 [INFO] HANA status updated for 1104051
+2026-08-01 18:31:57 [INFO] Processing Invoice DocEntry: 1104341
+2026-08-01 18:31:57 [INFO] API Result for 1104341: Y - 200
+2026-08-01 18:31:57 [INFO] HANA status updated for 1104341
+2026-08-01 18:31:57 [INFO] Processing Invoice DocEntry: 1104052
+2026-08-01 18:31:58 [INFO] API Result for 1104052: Y - 200
+2026-08-01 18:31:58 [INFO] HANA status updated for 1104052
+2026-08-01 18:31:58 [INFO] Processing Invoice DocEntry: 1104053
+2026-08-01 18:31:58 [INFO] API Result for 1104053: Y - 200
+2026-08-01 18:31:58 [INFO] HANA status updated for 1104053
+2026-08-01 18:31:58 [INFO] Processing Invoice DocEntry: 1104342
+2026-08-01 18:31:58 [INFO] API Result for 1104342: Y - 200
+2026-08-01 18:31:58 [INFO] HANA status updated for 1104342
+2026-08-01 18:31:58 [INFO] Processing Invoice DocEntry: 1104054
+2026-08-01 18:31:58 [INFO] API Result for 1104054: Y - 200
+2026-08-01 18:31:58 [INFO] HANA status updated for 1104054
+2026-08-01 18:31:58 [INFO] Processing Invoice DocEntry: 1104343
+2026-08-01 18:31:58 [INFO] API Result for 1104343: Y - 200
+2026-08-01 18:31:58 [INFO] HANA status updated for 1104343
+2026-08-01 18:31:58 [INFO] Processing Invoice DocEntry: 1104055
+2026-08-01 18:31:59 [INFO] API Result for 1104055: Y - 200
+2026-08-01 18:31:59 [INFO] HANA status updated for 1104055
+2026-08-01 18:31:59 [INFO] Processing Invoice DocEntry: 1104056
+2026-08-01 18:31:59 [INFO] API Result for 1104056: Y - 200
+2026-08-01 18:31:59 [INFO] HANA status updated for 1104056
+2026-08-01 18:31:59 [INFO] Processing Invoice DocEntry: 1104057
+2026-08-01 18:31:59 [INFO] API Result for 1104057: Y - 200
+2026-08-01 18:31:59 [INFO] HANA status updated for 1104057
+2026-08-01 18:31:59 [INFO] Processing Invoice DocEntry: 1104058
+2026-08-01 18:31:59 [INFO] API Result for 1104058: Y - 200
+2026-08-01 18:31:59 [INFO] HANA status updated for 1104058
+2026-08-01 18:31:59 [INFO] Processing Invoice DocEntry: 1104059
+2026-08-01 18:31:59 [INFO] API Result for 1104059: Y - 200
+2026-08-01 18:31:59 [INFO] HANA status updated for 1104059
+2026-08-01 18:31:59 [INFO] Processing Invoice DocEntry: 1104060
+2026-08-01 18:32:00 [INFO] API Result for 1104060: Y - 200
+2026-08-01 18:32:00 [INFO] HANA status updated for 1104060
+2026-08-01 18:32:00 [INFO] Processing Invoice DocEntry: 1104061
+2026-08-01 18:32:00 [INFO] API Result for 1104061: Y - 200
+2026-08-01 18:32:00 [INFO] HANA status updated for 1104061
+2026-08-01 18:32:00 [INFO] Processing Invoice DocEntry: 1104062
+2026-08-01 18:32:00 [INFO] API Result for 1104062: Y - 200
+2026-08-01 18:32:00 [INFO] HANA status updated for 1104062
+2026-08-01 18:32:00 [INFO] Processing Invoice DocEntry: 1104063
+2026-08-01 18:32:00 [INFO] API Result for 1104063: Y - 200
+2026-08-01 18:32:00 [INFO] HANA status updated for 1104063
+2026-08-01 18:32:00 [INFO] Processing Invoice DocEntry: 1104064
+2026-08-01 18:32:00 [INFO] API Result for 1104064: Y - 200
+2026-08-01 18:32:00 [INFO] HANA status updated for 1104064
+2026-08-01 18:32:00 [INFO] Processing Invoice DocEntry: 1104065
+2026-08-01 18:32:01 [INFO] API Result for 1104065: Y - 200
+2026-08-01 18:32:01 [INFO] HANA status updated for 1104065
+2026-08-01 18:32:01 [INFO] Processing Invoice DocEntry: 1104066
+2026-08-01 18:32:01 [INFO] API Result for 1104066: N - 
+2026-08-01 18:32:01 [INFO] HANA status updated for 1104066
+2026-08-01 18:32:01 [INFO] Processing Invoice DocEntry: 1104067
+2026-08-01 18:32:01 [INFO] API Result for 1104067: Y - 200
+2026-08-01 18:32:01 [INFO] HANA status updated for 1104067
+2026-08-01 18:32:01 [INFO] Processing Invoice DocEntry: 1104068
+2026-08-01 18:32:01 [INFO] API Result for 1104068: Y - 200
+2026-08-01 18:32:01 [INFO] HANA status updated for 1104068
+2026-08-01 18:32:01 [INFO] Processing Invoice DocEntry: 1104069
+2026-08-01 18:32:01 [INFO] API Result for 1104069: Y - 200
+2026-08-01 18:32:01 [INFO] HANA status updated for 1104069
+2026-08-01 18:32:01 [INFO] Processing Invoice DocEntry: 1104070
+2026-08-01 18:32:02 [INFO] API Result for 1104070: Y - 200
+2026-08-01 18:32:02 [INFO] HANA status updated for 1104070
+2026-08-01 18:32:02 [INFO] Processing Invoice DocEntry: 1104071
+2026-08-01 18:32:02 [INFO] API Result for 1104071: Y - 200
+2026-08-01 18:32:02 [INFO] HANA status updated for 1104071
+2026-08-01 18:32:02 [INFO] Processing Invoice DocEntry: 1104072
+2026-08-01 18:32:02 [INFO] API Result for 1104072: Y - 200
+2026-08-01 18:32:02 [INFO] HANA status updated for 1104072
+2026-08-01 18:32:02 [INFO] Processing Invoice DocEntry: 1104073
+2026-08-01 18:32:02 [INFO] API Result for 1104073: Y - 200
+2026-08-01 18:32:02 [INFO] HANA status updated for 1104073
+2026-08-01 18:32:02 [INFO] Processing Invoice DocEntry: 1104074
+2026-08-01 18:32:02 [INFO] API Result for 1104074: Y - 200
+2026-08-01 18:32:02 [INFO] HANA status updated for 1104074
+2026-08-01 18:32:02 [INFO] Processing Invoice DocEntry: 1104075
+2026-08-01 18:32:03 [INFO] API Result for 1104075: Y - 200
+2026-08-01 18:32:03 [INFO] HANA status updated for 1104075
+2026-08-01 18:32:03 [INFO] Processing Invoice DocEntry: 1104076
+2026-08-01 18:32:03 [INFO] API Result for 1104076: Y - 200
+2026-08-01 18:32:03 [INFO] HANA status updated for 1104076
+2026-08-01 18:32:03 [INFO] Processing Invoice DocEntry: 1104077
+2026-08-01 18:32:03 [INFO] API Result for 1104077: Y - 200
+2026-08-01 18:32:03 [INFO] HANA status updated for 1104077
+2026-08-01 18:32:03 [INFO] Processing Invoice DocEntry: 1104078
+2026-08-01 18:32:03 [INFO] API Result for 1104078: Y - 200
+2026-08-01 18:32:03 [INFO] HANA status updated for 1104078
+2026-08-01 18:32:03 [INFO] Processing Invoice DocEntry: 1104079
+2026-08-01 18:32:03 [INFO] API Result for 1104079: Y - 200
+2026-08-01 18:32:03 [INFO] HANA status updated for 1104079
+2026-08-01 18:32:03 [INFO] Processing Invoice DocEntry: 1104080
+2026-08-01 18:32:04 [INFO] API Result for 1104080: Y - 200
+2026-08-01 18:32:04 [INFO] HANA status updated for 1104080
+2026-08-01 18:32:04 [INFO] Processing Invoice DocEntry: 1104081
+2026-08-01 18:32:04 [INFO] API Result for 1104081: Y - 200
+2026-08-01 18:32:04 [INFO] HANA status updated for 1104081
+2026-08-01 18:32:04 [INFO] Processing Invoice DocEntry: 1104082
+2026-08-01 18:32:04 [INFO] API Result for 1104082: Y - 200
+2026-08-01 18:32:04 [INFO] HANA status updated for 1104082
+2026-08-01 18:32:04 [INFO] Processing Invoice DocEntry: 1104083
+2026-08-01 18:32:04 [INFO] API Result for 1104083: Y - 200
+2026-08-01 18:32:04 [INFO] HANA status updated for 1104083
+2026-08-01 18:32:04 [INFO] Processing Invoice DocEntry: 1104084
+2026-08-01 18:32:04 [INFO] API Result for 1104084: Y - 200
+2026-08-01 18:32:04 [INFO] HANA status updated for 1104084
+2026-08-01 18:32:04 [INFO] Processing Invoice DocEntry: 1104085
+2026-08-01 18:32:05 [INFO] API Result for 1104085: Y - 200
+2026-08-01 18:32:05 [INFO] HANA status updated for 1104085
+2026-08-01 18:32:05 [INFO] Processing Invoice DocEntry: 1104086
+2026-08-01 18:32:05 [INFO] API Result for 1104086: Y - 200
+2026-08-01 18:32:05 [INFO] HANA status updated for 1104086
+2026-08-01 18:32:05 [INFO] Processing Invoice DocEntry: 1104087
+2026-08-01 18:32:05 [INFO] API Result for 1104087: Y - 200
+2026-08-01 18:32:05 [INFO] HANA status updated for 1104087
+2026-08-01 18:32:05 [INFO] Processing Invoice DocEntry: 1104088
+2026-08-01 18:32:05 [INFO] API Result for 1104088: Y - 200
+2026-08-01 18:32:05 [INFO] HANA status updated for 1104088
+2026-08-01 18:32:05 [INFO] Processing Invoice DocEntry: 1104089
+2026-08-01 18:32:05 [INFO] API Result for 1104089: Y - 200
+2026-08-01 18:32:05 [INFO] HANA status updated for 1104089
+2026-08-01 18:32:05 [INFO] Processing Invoice DocEntry: 1104090
+2026-08-01 18:32:06 [INFO] API Result for 1104090: Y - 200
+2026-08-01 18:32:06 [INFO] HANA status updated for 1104090
+2026-08-01 18:32:06 [INFO] Processing Invoice DocEntry: 1104091
+2026-08-01 18:32:06 [INFO] API Result for 1104091: Y - 200
+2026-08-01 18:32:06 [INFO] HANA status updated for 1104091
+2026-08-01 18:32:06 [INFO] Processing Invoice DocEntry: 1104092
+2026-08-01 18:32:06 [INFO] API Result for 1104092: Y - 200
+2026-08-01 18:32:06 [INFO] HANA status updated for 1104092
+2026-08-01 18:32:06 [INFO] Processing Invoice DocEntry: 1104093
+2026-08-01 18:32:06 [INFO] API Result for 1104093: Y - 200
+2026-08-01 18:32:06 [INFO] HANA status updated for 1104093
+2026-08-01 18:32:06 [INFO] Processing Invoice DocEntry: 1104094
+2026-08-01 18:32:06 [INFO] API Result for 1104094: N - 
+2026-08-01 18:32:06 [INFO] HANA status updated for 1104094
+2026-08-01 18:32:06 [INFO] Processing Invoice DocEntry: 1104095
+2026-08-01 18:32:06 [INFO] API Result for 1104095: Y - 200
+2026-08-01 18:32:06 [INFO] HANA status updated for 1104095
+2026-08-01 18:32:06 [INFO] Processing Invoice DocEntry: 1104096
+2026-08-01 18:32:07 [INFO] API Result for 1104096: Y - 200
+2026-08-01 18:32:07 [INFO] HANA status updated for 1104096
+2026-08-01 18:32:07 [INFO] Processing Invoice DocEntry: 1104097
+2026-08-01 18:32:07 [INFO] API Result for 1104097: Y - 200
+2026-08-01 18:32:07 [INFO] HANA status updated for 1104097
+2026-08-01 18:32:07 [INFO] Processing Invoice DocEntry: 1104098
+2026-08-01 18:32:07 [INFO] API Result for 1104098: Y - 200
+2026-08-01 18:32:07 [INFO] HANA status updated for 1104098
+2026-08-01 18:32:07 [INFO] Processing Invoice DocEntry: 1104099
+2026-08-01 18:32:07 [INFO] API Result for 1104099: Y - 200
+2026-08-01 18:32:07 [INFO] HANA status updated for 1104099
+2026-08-01 18:32:07 [INFO] Processing Invoice DocEntry: 1104100
+2026-08-01 18:32:07 [INFO] API Result for 1104100: Y - 200
+2026-08-01 18:32:07 [INFO] HANA status updated for 1104100
+2026-08-01 18:32:07 [INFO] Processing Invoice DocEntry: 1104101
+2026-08-01 18:32:07 [INFO] API Result for 1104101: Y - 200
+2026-08-01 18:32:07 [INFO] HANA status updated for 1104101
+2026-08-01 18:32:07 [INFO] Processing Invoice DocEntry: 1104102
+2026-08-01 18:32:08 [INFO] API Result for 1104102: N - 
+2026-08-01 18:32:08 [INFO] HANA status updated for 1104102
+2026-08-01 18:32:08 [INFO] Processing Invoice DocEntry: 1104103
+2026-08-01 18:32:08 [INFO] API Result for 1104103: Y - 200
+2026-08-01 18:32:08 [INFO] HANA status updated for 1104103
+2026-08-01 18:32:08 [INFO] Processing Invoice DocEntry: 1104104
+2026-08-01 18:32:08 [INFO] API Result for 1104104: Y - 200
+2026-08-01 18:32:08 [INFO] HANA status updated for 1104104
+2026-08-01 18:32:08 [INFO] Processing Invoice DocEntry: 1104108
+2026-08-01 18:32:08 [INFO] API Result for 1104108: Y - 200
+2026-08-01 18:32:08 [INFO] HANA status updated for 1104108
+2026-08-01 18:32:08 [INFO] Processing Invoice DocEntry: 1104109
+2026-08-01 18:32:08 [INFO] API Result for 1104109: Y - 200
+2026-08-01 18:32:08 [INFO] HANA status updated for 1104109
+2026-08-01 18:32:08 [INFO] Processing Invoice DocEntry: 1104114
+2026-08-01 18:32:08 [INFO] API Result for 1104114: Y - 200
+2026-08-01 18:32:08 [INFO] HANA status updated for 1104114
+2026-08-01 18:32:08 [INFO] Processing Invoice DocEntry: 1104117
+2026-08-01 18:32:09 [INFO] API Result for 1104117: Y - 200
+2026-08-01 18:32:09 [INFO] HANA status updated for 1104117
+2026-08-01 18:32:09 [INFO] Processing Invoice DocEntry: 1104120
+2026-08-01 18:32:09 [INFO] API Result for 1104120: Y - 200
+2026-08-01 18:32:09 [INFO] HANA status updated for 1104120
+2026-08-01 18:32:09 [INFO] Processing Invoice DocEntry: 1104121
+2026-08-01 18:32:09 [INFO] API Result for 1104121: Y - 200
+2026-08-01 18:32:09 [INFO] HANA status updated for 1104121
+2026-08-01 18:32:09 [INFO] Processing Invoice DocEntry: 1104124
+2026-08-01 18:32:09 [INFO] API Result for 1104124: Y - 200
+2026-08-01 18:32:09 [INFO] HANA status updated for 1104124
+2026-08-01 18:32:09 [INFO] Processing Invoice DocEntry: 1104345
+2026-08-01 18:32:09 [INFO] API Result for 1104345: Y - 200
+2026-08-01 18:32:09 [INFO] HANA status updated for 1104345
+2026-08-01 18:32:09 [INFO] Processing Invoice DocEntry: 1104127
+2026-08-01 18:32:10 [INFO] API Result for 1104127: Y - 200
+2026-08-01 18:32:10 [INFO] HANA status updated for 1104127
+2026-08-01 18:32:10 [INFO] Processing Invoice DocEntry: 1104225
+2026-08-01 18:32:10 [INFO] API Result for 1104225: Y - 200
+2026-08-01 18:32:10 [INFO] HANA status updated for 1104225
+2026-08-01 18:32:10 [INFO] Processing Invoice DocEntry: 1104227
+2026-08-01 18:32:10 [INFO] API Result for 1104227: Y - 200
+2026-08-01 18:32:10 [INFO] HANA status updated for 1104227
+2026-08-01 18:32:10 [INFO] Processing Invoice DocEntry: 1104229
+2026-08-01 18:32:10 [INFO] API Result for 1104229: Y - 200
+2026-08-01 18:32:10 [INFO] HANA status updated for 1104229
+2026-08-01 18:32:10 [INFO] Processing Invoice DocEntry: 1104230
+2026-08-01 18:32:10 [INFO] API Result for 1104230: Y - 200
+2026-08-01 18:32:10 [INFO] HANA status updated for 1104230
+2026-08-01 18:32:10 [INFO] Processing Invoice DocEntry: 1104231
+2026-08-01 18:32:10 [INFO] API Result for 1104231: Y - 200
+2026-08-01 18:32:10 [INFO] HANA status updated for 1104231
+2026-08-01 18:32:10 [INFO] Processing Invoice DocEntry: 1104232
+2026-08-01 18:32:11 [INFO] API Result for 1104232: Y - 200
+2026-08-01 18:32:11 [INFO] HANA status updated for 1104232
+2026-08-01 18:32:11 [INFO] Processing Invoice DocEntry: 1104233
+2026-08-01 18:32:11 [INFO] API Result for 1104233: Y - 200
+2026-08-01 18:32:11 [INFO] HANA status updated for 1104233
+2026-08-01 18:32:11 [INFO] Processing Invoice DocEntry: 1104234
+2026-08-01 18:32:11 [INFO] API Result for 1104234: Y - 200
+2026-08-01 18:32:11 [INFO] HANA status updated for 1104234
+2026-08-01 18:32:11 [INFO] Processing Invoice DocEntry: 1104235
+2026-08-01 18:32:11 [INFO] API Result for 1104235: Y - 200
+2026-08-01 18:32:11 [INFO] HANA status updated for 1104235
+2026-08-01 18:32:11 [INFO] Processing Invoice DocEntry: 1104236
+2026-08-01 18:32:11 [INFO] API Result for 1104236: Y - 200
+2026-08-01 18:32:11 [INFO] HANA status updated for 1104236
+2026-08-01 18:32:11 [INFO] Processing Invoice DocEntry: 1104237
+2026-08-01 18:32:11 [INFO] API Result for 1104237: Y - 200
+2026-08-01 18:32:11 [INFO] HANA status updated for 1104237
+2026-08-01 18:32:11 [INFO] Processing Invoice DocEntry: 1104238
+2026-08-01 18:32:12 [INFO] API Result for 1104238: Y - 200
+2026-08-01 18:32:12 [INFO] HANA status updated for 1104238
+2026-08-01 18:32:12 [INFO] Processing Invoice DocEntry: 1104239
+2026-08-01 18:32:12 [INFO] API Result for 1104239: Y - 200
+2026-08-01 18:32:12 [INFO] HANA status updated for 1104239
+2026-08-01 18:32:12 [INFO] Processing Invoice DocEntry: 1104241
+2026-08-01 18:32:12 [INFO] API Result for 1104241: Y - 200
+2026-08-01 18:32:12 [INFO] HANA status updated for 1104241
+2026-08-01 18:32:12 [INFO] Processing Invoice DocEntry: 1104242
+2026-08-01 18:32:12 [INFO] API Result for 1104242: Y - 200
+2026-08-01 18:32:12 [INFO] HANA status updated for 1104242
+2026-08-01 18:32:12 [INFO] Processing Invoice DocEntry: 1104243
+2026-08-01 18:32:12 [INFO] API Result for 1104243: Y - 200
+2026-08-01 18:32:12 [INFO] HANA status updated for 1104243
+2026-08-01 18:32:12 [INFO] Processing Invoice DocEntry: 1104245
+2026-08-01 18:32:13 [INFO] API Result for 1104245: Y - 200
+2026-08-01 18:32:13 [INFO] HANA status updated for 1104245
+2026-08-01 18:32:13 [INFO] Processing Invoice DocEntry: 1104246
+2026-08-01 18:32:13 [INFO] API Result for 1104246: Y - 200
+2026-08-01 18:32:13 [INFO] HANA status updated for 1104246
+2026-08-01 18:32:13 [INFO] Processing Invoice DocEntry: 1104247
+2026-08-01 18:32:13 [INFO] API Result for 1104247: Y - 200
+2026-08-01 18:32:13 [INFO] HANA status updated for 1104247
+2026-08-01 18:32:13 [INFO] Processing Invoice DocEntry: 1104248
+2026-08-01 18:32:13 [INFO] API Result for 1104248: Y - 200
+2026-08-01 18:32:13 [INFO] HANA status updated for 1104248
+2026-08-01 18:32:13 [INFO] --- FINISHED SYNC FOR DB: SUJALDAIRYLIVE ---

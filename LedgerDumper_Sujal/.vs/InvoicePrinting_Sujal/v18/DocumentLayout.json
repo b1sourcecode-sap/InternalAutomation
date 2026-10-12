@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|d:\\bibas\\addon_ver10\\sujal\\ledgerdumper_sujal\\business logics\\system froms\\clsarinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|solutionrelative:business logics\\system froms\\clsarinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\base classes\\eventlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|solutionrelative:base classes\\eventlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\business logics\\custom forms\\clsledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|solutionrelative:business logics\\custom forms\\clsledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\business logics\\custom forms\\clsinvoicesyncird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|solutionrelative:business logics\\custom forms\\clsinvoicesyncird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\business logics\\system froms\\clscrdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|solutionrelative:business logics\\system froms\\clscrdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\bin\\debug\\xml files\\ledger.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|solutionrelative:bin\\debug\\xml files\\ledger.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\business logics\\system froms\\clsarcreditnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|solutionrelative:business logics\\system froms\\clsarcreditnote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\base classes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|InvoicePrinting_Sujal.csproj|solutionrelative:base classes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsCRDisplay.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Business Logics\\System Froms\\ClsCRDisplay.cs",
+              "RelativeDocumentMoniker": "Business Logics\\System Froms\\ClsCRDisplay.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Business Logics\\System Froms\\ClsCRDisplay.cs",
+              "RelativeToolTip": "Business Logics\\System Froms\\ClsCRDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:22:24.568Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventListener.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Base Classes\\EventListener.cs",
+              "RelativeDocumentMoniker": "Base Classes\\EventListener.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Base Classes\\EventListener.cs",
+              "RelativeToolTip": "Base Classes\\EventListener.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAwwKoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T11:03:20.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClsLedger.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Business Logics\\Custom Forms\\ClsLedger.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsLedger.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Business Logics\\Custom Forms\\ClsLedger.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsLedger.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAIIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T11:00:21.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClsARInvoice.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Business Logics\\System Froms\\ClsARInvoice.cs",
+              "RelativeDocumentMoniker": "Business Logics\\System Froms\\ClsARInvoice.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Business Logics\\System Froms\\ClsARInvoice.cs",
+              "RelativeToolTip": "Business Logics\\System Froms\\ClsARInvoice.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwv7kCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:22:17.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClsARCreditNote.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Business Logics\\System Froms\\ClsARCreditNote.cs",
+              "RelativeDocumentMoniker": "Business Logics\\System Froms\\ClsARCreditNote.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Business Logics\\System Froms\\ClsARCreditNote.cs",
+              "RelativeToolTip": "Business Logics\\System Froms\\ClsARCreditNote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:23:00.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClsInvoiceSyncIRD.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Business Logics\\Custom Forms\\ClsInvoiceSyncIRD.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsInvoiceSyncIRD.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Business Logics\\Custom Forms\\ClsInvoiceSyncIRD.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsInvoiceSyncIRD.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAAAJ4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:22:57.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ledger.xml",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\bin\\Debug\\XML Files\\Ledger.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\Ledger.xml",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\bin\\Debug\\XML Files\\Ledger.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\Ledger.xml",
+              "ViewState": "AgIAAAYAAAAAzMzMzIwjwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-08-12T11:26:16.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Base Classes\\Constants.cs",
+              "RelativeDocumentMoniker": "Base Classes\\Constants.cs",
+              "ToolTip": "D:\\BIBAS\\Addon_ver10\\Sujal\\LedgerDumper_Sujal\\Base Classes\\Constants.cs",
+              "RelativeToolTip": "Base Classes\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:19:28.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

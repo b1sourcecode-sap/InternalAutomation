@@ -1,0 +1,20 @@
+2026-07-31 17:36:31 [INFO] ===== GLOBAL PROCESS START =====
+2026-07-31 17:36:31 [INFO] Reading configuration from: D:\BIBAS\Addon_ver10\KTM-200\Addon-03032024\IRDSync\ItemCreationInterCompanyUtility\bin\IRDDetails.xlsx
+2026-07-31 17:36:32 [ERROR] Failed to read Excel configuration file. 
+Exception: Microsoft Excel cannot access the file 'D:\BIBAS\Addon_ver10\KTM-200\Addon-03032024\IRDSync\ItemCreationInterCompanyUtility\bin\IRDDetails.xlsx'. There are several possible reasons:
+
+• The file name or path does not exist.
+• The file is being used by another program.
+• The workbook you are trying to save has the same name as a currently open workbook.
+Stacktrace:    at Microsoft.Office.Interop.Excel.Workbooks.Open(String Filename, Object UpdateLinks, Object ReadOnly, Object Format, Object Password, Object WriteResPassword, Object IgnoreReadOnlyRecommended, Object Origin, Object Delimiter, Object Editable, Object Notify, Object Converter, Object AddToMru, Object Local, Object CorruptLoad)
+   at IRDSync.IRDSyncDairy.LoadTenantsFromExcel(String path) in D:\BIBAS\Addon_ver10\KTM-200\Addon-03032024\IRDSync\ItemCreationInterCompanyUtility\IRDSyncDairy.cs:line 170
+2026-07-31 17:36:32 [INFO] Successfully loaded 0 databases from Excel.
+2026-07-31 17:36:32 [INFO] ===== GLOBAL PROCESS FINISHED =====
+2026-07-31 17:48:08 [INFO] ===== GLOBAL PROCESS START =====
+2026-07-31 17:48:08 [INFO] Reading configuration from: D:\BIBAS\Addon_ver10\KTM-200\Addon-03032024\IRDSync\ItemCreationInterCompanyUtility\bin\IRDDetails.xlsx
+2026-07-31 17:48:13 [INFO] Successfully loaded 2 databases from Excel.
+2026-07-31 17:48:59 [INFO] ===== GLOBAL PROCESS FINISHED =====
+2026-07-31 18:30:01 [INFO] ===== GLOBAL PROCESS START =====
+2026-07-31 18:30:01 [INFO] Reading configuration from: D:\BIBAS\Addon_ver10\KTM-200\Addon-03032024\IRDSync\ItemCreationInterCompanyUtility\bin\IRDDetails.xlsx
+2026-07-31 18:30:04 [INFO] Successfully loaded 2 databases from Excel.
+2026-07-31 18:30:56 [INFO] ===== GLOBAL PROCESS FINISHED =====
